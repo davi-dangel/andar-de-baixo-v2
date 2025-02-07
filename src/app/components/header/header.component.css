@@ -1,0 +1,15 @@
+.header {
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+}
+
+.newspaper-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

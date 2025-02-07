@@ -1,0 +1,21 @@
+<div class="column">
+    <div class="head">
+        <span class="headline hl3">{{title}}</span>
+        @if(subtitle){
+            <p>
+                <span class="headline hl4">{{subtitle}}</span>
+            </p>
+        }
+    </div>    
+    
+    @if(img){
+        <figure class="figure">
+            <img class="media" src="{{img}}" alt="Headline Image">
+            <figcaption class="figcaption">caption</figcaption>
+        </figure>
+    }
+
+    @if(abstract){
+        <p>{{abstract}}</p>
+    }
+</div>
