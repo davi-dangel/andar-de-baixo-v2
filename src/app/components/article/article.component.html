@@ -1,0 +1,20 @@
+<div class="article">
+
+    <span class="headline hl3">{{this.article?.title}}</span>
+
+    @for (item of this.article.content; track $index) {
+
+        @if (item.type === 'PARAGRAPH'){
+            <app-paragraph [value]="item.value"></app-paragraph>
+        }
+
+        @if (item.type === 'POEM'){
+            <app-poem [value]="item.value"></app-poem>
+        }
+
+        @if (item.type === 'IMAGE'){
+            <app-image [value]="item"></app-image>
+        }
+    }
+    
+</div>

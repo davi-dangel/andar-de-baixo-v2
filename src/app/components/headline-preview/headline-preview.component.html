@@ -1,21 +1,21 @@
 <div class="column">
     <div class="head">
-        <span class="headline hl3">{{title}}</span>
-        @if(subtitle){
+        <span class="headline hl3">{{headline?.title}}</span>
+        @if(headline?.subtitle){
             <p>
-                <span class="headline hl4">{{subtitle}}</span>
+                <span class="headline hl4">{{headline?.subtitle}}</span>
             </p>
         }
     </div>    
     
-    @if(img){
+    @if(headline?.imgPreview){
         <figure class="figure">
-            <img class="media" src="{{img}}" alt="Headline Image">
+            <img class="media" src="{{headline?.imgPreview}}" alt="Headline Image">
             <figcaption class="figcaption">caption</figcaption>
         </figure>
     }
 
-    @if(abstract){
-        <p>{{abstract}}</p>
+    @if(headline?.abstract){
+        <p>{{headline?.abstract}}</p>
     }
 </div>

@@ -20,11 +20,12 @@
     vertical-align: top;
     margin-bottom: 50px;
     transition: all .7s;
+    cursor: pointer;
 }
 
-.column + .column { 
+/* .column + .column { 
     border-left: 1px solid #2f2f2f;
-}
+} */
 
 .column .headline{
     text-align: center;
