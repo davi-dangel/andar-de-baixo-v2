@@ -8,9 +8,6 @@ import { ContentImage } from '../../../../models/content-image.model';
   templateUrl: './image.component.html',
   styleUrl: './image.component.css'
 })
-export class ImageComponent implements OnInit{
-  ngOnInit(): void {
-    console.log("value: ", this.value);
-  }
+export class ImageComponent{
   @Input() value: ContentImage | null = null;
 }

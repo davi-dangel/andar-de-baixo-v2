@@ -8,8 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:andar-de-baixo": "node dist/andar-de-baixo/server/server.mjs",
-    "github:build": "ng build --configuration production --base-href 'https://davi-dangel.github.io/andar-de-baixo-v2/'",
-    "github:deploy": "npx angular-cli-ghpages --dir=dist/andar-de-baixo --no-silent"
+    "deploy": "ng build --configuration production && npx angular-cli-ghpages --dir=dist/andar-de-baixo/browser --cname=andardebaixo.com.br"
   },
   "private": true,
   "dependencies": {
