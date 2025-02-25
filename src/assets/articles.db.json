@@ -61,7 +61,7 @@
         "content": [
             {
                 "type": "IMAGE",
-                "value": "/me.jpg",
+                "value": "http://home.kegangu.net:7070/-euV8AfgQZA/me.jpg",
                 "alt":"Davi's birthday"
             },
             {
@@ -94,7 +94,7 @@
             },
             {
                 "type": "IMAGE",
-                "value": "/rei.jpg",
+                "value": "http://home.kegangu.net:7070/-SCNGrv5j5R/rei.jpg",
                 "alt":"Davi's birthday"
             },
             {
@@ -127,11 +127,11 @@
             },
             {
                 "type": "IMAGE",
-                "value": "/omedetou.gif",
+                "value": "http://home.kegangu.net:7070/-7pthSDY9fa/omedetou.gif",
                 "alt":"Davi's birthday"
             }
         ],
-        "imgPreview": "/me.jpg"
+        "imgPreview": "http://home.kegangu.net:7070/-euV8AfgQZA/me.jpg"
     },
     {
         "id": 3,
