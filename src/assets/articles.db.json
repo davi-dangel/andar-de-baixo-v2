@@ -209,5 +209,66 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 4,
+        "active": true,
+        "title": "Azul? Teu Cu!",
+        "abstract": "Ferreira Gullar trouxe uma raiva latente à superficie",
+        "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "pouco tempo atrás estava de saco cheio de poesia, de aspirações, de sonhos, fantasias, das brincadeiras, do lúdico, do transcendental, e por aí vai."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "queria mandar pra casa do caralho Clarices e Drummonds; ao inferno com toda essa poesia, beleza, com todo esse lirismo, essas sutilezas, com o dizer sem dizer, o oculto, que não quer ser revelado, mas quer ser sentido. enfim…"
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "[pausa]"
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "eu estava com vontade de pedras, obscenidades, sujeira, de pão e de carne. Eu queria morder alguém, tirar um pedaço, me espreguiçar, arrancar meus próprios braços na altura do cotovelo (sentimento mais recorrente do que deveria ser, talvez)."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "enfim, um desejo duro pelo real."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "achei que tinha passado, mas, para minha surpresa, não. E quem diria que voltaria justamente quando peguei um livro de poesia para ler. Para minha felicidade, Ferreira Gullar é um poeta da obscenidade, do sujo, do pornográfico. Vide o famosíssimo Poema Sujo, que recomendo que leia. aqui vai um trechinho do começo dele:"
+            },
+            {
+                "type": "POEM",
+                "value": [
+                    "azul",
+                    "era o gato",
+                    "azul",
+                    "era o galo",
+                    "azul",
+                    "o cavalo",
+                    "azul",
+                    "teu cu"
+                ]
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Teu cu! porra, cu, buceta, caralho."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Vai Tomar No Cu."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "as vezes acho que desejo duro pelo real - veja bem, desejo duro; tem que ser duro! - é, na verdade, uma ânsia, ou uma angústia, por um peso; algum peso qualquer. Sentimento muito parecido com o de precisar de ao menos um lençol para dormir à noite. Um peso, uma verdade, um valor, talvez? ou melhor: “reaver a manhã que virou lixo”. O que Ferreira Gullar quis dizer com isso? o que eu quero dizer com isso citando ele aqui? sei lá. por algum motivo parece fazer sentido."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "[pausa]"
+            }
+        ]
     }
 ]
