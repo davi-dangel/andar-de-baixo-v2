@@ -270,5 +270,57 @@
                 "value": "[pausa]"
             }
         ]
+    },
+    {
+        "id": 5,
+        "active": true,
+        "title": "Rádio de baixo #1",
+        "abstract": "bla bla bla",
+        "content": [
+            
+            {
+                "type": "PARAGRAPH",
+                "value": "as vezes acho que desejo duro pelo real - veja bem, desejo duro; tem que ser duro! - é, na verdade, uma ânsia, ou uma angústia, por um peso; algum peso qualquer. Sentimento muito parecido com o de precisar de ao menos um lençol para dormir à noite. Um peso, uma verdade, um valor, talvez? ou melhor: “reaver a manhã que virou lixo”. O que Ferreira Gullar quis dizer com isso? o que eu quero dizer com isso citando ele aqui? sei lá. por algum motivo parece fazer sentido."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/2lCTH2MWwoj9CR4fzm9dzK?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/0HAAS6evvD9r1mN09Mfpp6?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/5y4lq3bxrh4DSyG10xdjyx?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "active": true,
+        "title": "Buenos Aires - 11/01/2025 - 08/02/2025",
+        "imgPreview": "https://github.com/davi-dangel/andar-de-baixo-v2/blob/master/src/assets/buenos_aires/01.JPG",
+        "abstract": "Buenos Aires, Argentina",
+        "content": [
+            
+            {
+                "type": "IMAGE",
+                "value": "../assets/buenos-aires/01.JPG",
+                "alt":"Test"
+            }
+        ]
     }
 ]

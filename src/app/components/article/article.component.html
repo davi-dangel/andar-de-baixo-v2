@@ -15,6 +15,10 @@
         @if (item.type === 'IMAGE'){
             <app-image [value]="item"></app-image>
         }
+        
+        @if (item.type === 'IFRAME'){
+            <app-iframe [iframe]="item"></app-iframe>
+        }
     }
     
 </div>

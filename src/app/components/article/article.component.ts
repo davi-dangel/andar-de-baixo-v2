@@ -4,11 +4,12 @@ import { ActivatedRoute } from '@angular/router';
 import { ParagraphComponent } from './components/paragraph/paragraph.component';
 import { PoemComponent } from './components/poem/poem.component';
 import { ImageComponent } from './components/image/image.component';
+import { IframeComponent } from './components/iframe/iframe.component';
 
 @Component({
   selector: 'app-article',
   standalone: true,
-  imports: [ParagraphComponent, PoemComponent, ImageComponent],
+  imports: [ParagraphComponent, PoemComponent, ImageComponent, IframeComponent],
   templateUrl: './article.component.html',
   styleUrl: './article.component.css'
 })
