@@ -273,7 +273,7 @@
     },
     {
         "id": 5,
-        "active": true,
+        "active": false,
         "title": "Rádio de baixo #1",
         "abstract": "bla bla bla",
         "content": [
@@ -312,13 +312,292 @@
         "id": 6,
         "active": true,
         "title": "Buenos Aires - 11/01/2025 - 08/02/2025",
-        "imgPreview": "https://github.com/davi-dangel/andar-de-baixo-v2/blob/master/src/assets/buenos_aires/01.JPG",
+        "imgPreview": "/buenos_aires/01.JPG",
         "abstract": "Buenos Aires, Argentina",
         "content": [
-            
             {
                 "type": "IMAGE",
-                "value": "../assets/buenos-aires/01.JPG",
+                "value": "/buenos_aires/02.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/03.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/04.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/05.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/06.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/07.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/09.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/10.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/11.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/12.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/14.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/15.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/16.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/17.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/22.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/23.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/26.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/29.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/30.JPG",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/33.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/34.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/35.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/36.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/37.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/38.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/39.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/40.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/41.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/42.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/43.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/44.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/46.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/47.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/48.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/50.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/54.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/56.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/57.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/59.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/60.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/61.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/62.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/63.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/66.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/68.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/69.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/71.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/72.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/73.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/74.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/75.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/77.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/78.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/82.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/84.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/85.jpg",
+                "alt":"Test"
+            },
+            {
+                "type": "IMAGE",
+                "value": "/buenos_aires/86.jpg",
                 "alt":"Test"
             }
         ]

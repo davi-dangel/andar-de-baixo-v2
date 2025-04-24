@@ -21,5 +21,9 @@ export class ArticleComponent implements OnInit{
   ngOnInit(): void {
     const id = this.route.snapshot.params['id'];
     this.article = this.dataService.Get(id);
+
+
+    
+
   }
 }
