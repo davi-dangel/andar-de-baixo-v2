@@ -8,10 +8,6 @@ import { SafePipe } from '../../../../pipes/safe.pipe';
   templateUrl: './iframe.component.html',
   styleUrl: './iframe.component.css'
 })
-export class IframeComponent implements OnInit {
-  ngOnInit(): void {
-    console.log("VALUE: ", this.iframe);
-    console.log("URL: ", this.iframe.value.src);
-  }
+export class IframeComponent {
   @Input() iframe: any | null = null;
 }

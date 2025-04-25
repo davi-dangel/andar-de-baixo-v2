@@ -1,0 +1,19 @@
+<div *ngIf="images">
+    <div *ngFor="let image of images; let index = index" key="index">
+        <img [src]="image.thumbnailImageSrc" [alt]="image.alt" style="cursor: pointer; width: 100%; border: 25px solid white; margin-bottom: 15px;" (click)="imageClick(index)" />
+    </div>
+</div>
+<p-galleria 
+    [value]="images" 
+    [(visible)]="displayCustom" 
+    [(activeIndex)]="activeIndex" 
+    [containerStyle]="{ 'max-width': '850px' }" 
+    [responsiveOptions]="responsiveOptions" 
+    [circular]="true" 
+    [fullScreen]="true" 
+    [showItemNavigators]="true" 
+    [showThumbnails]="false">
+    <ng-template pTemplate="item" let-item>
+        <img [src]="item.itemImageSrc" style="width: 100%; display: block;" />
+    </ng-template>
+</p-galleria>

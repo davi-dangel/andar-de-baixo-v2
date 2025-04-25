@@ -5,11 +5,12 @@ import { ParagraphComponent } from './components/paragraph/paragraph.component';
 import { PoemComponent } from './components/poem/poem.component';
 import { ImageComponent } from './components/image/image.component';
 import { IframeComponent } from './components/iframe/iframe.component';
+import { GalleryComponent } from './components/gallery/gallery.component';
 
 @Component({
   selector: 'app-article',
   standalone: true,
-  imports: [ParagraphComponent, PoemComponent, ImageComponent, IframeComponent],
+  imports: [ParagraphComponent, PoemComponent, ImageComponent, IframeComponent, GalleryComponent],
   templateUrl: './article.component.html',
   styleUrl: './article.component.css'
 })

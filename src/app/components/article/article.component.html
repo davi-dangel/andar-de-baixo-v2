@@ -1,6 +1,8 @@
 <div class="article">
 
-    <span class="headline hl3">{{this.article?.title}}</span>
+    @if(this.article?.showTitle){
+        <span class="headline hl3">{{this.article?.title}}</span>
+    }
 
     @for (item of this.article.content; track $index) {
 
@@ -18,6 +20,10 @@
         
         @if (item.type === 'IFRAME'){
             <app-iframe [iframe]="item"></app-iframe>
+        }
+
+        @if (item.type === 'GALLERY'){
+            <app-gallery [value]="item"></app-gallery>
         }
     }
     
