@@ -7,7 +7,7 @@ import { ContentGallery } from '../../../../models/content-gallery.model';
   standalone: true,
   imports: [GalleriaModule],
   templateUrl: './gallery.component.html',
-  styleUrl: './gallery.component.css'
+  styleUrl: './gallery.component.css',
 })
 export class GalleryComponent implements OnInit{
   @Input() value: ContentGallery | null = null;

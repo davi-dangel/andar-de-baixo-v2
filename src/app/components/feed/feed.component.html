@@ -1,7 +1,7 @@
 <div class="content">
   @for(headline of headlines; track headline.id){
     @if (headline.active){
-      <app-headline-preview  class="head-line" (click)="openFullContent(headline.id)" [headline]="headline"></app-headline-preview>
+      <app-headline-preview  (click)="openFullContent(headline.id)" [headline]="headline"></app-headline-preview>
     }
   }
 </div>

@@ -1,6 +1,6 @@
 <div *ngIf="images">
     <div *ngFor="let image of images; let index = index" key="index">
-        <img [src]="image.thumbnailImageSrc" [alt]="image.alt" style="cursor: pointer; width: 100%; border: 25px solid white; margin-bottom: 15px;" (click)="imageClick(index)" />
+        <img class="img-border" [src]="image.thumbnailImageSrc" [alt]="image.alt" style="cursor: pointer; width: 100%; margin-bottom: 15px;" (click)="imageClick(index)" />
     </div>
 </div>
 <p-galleria 

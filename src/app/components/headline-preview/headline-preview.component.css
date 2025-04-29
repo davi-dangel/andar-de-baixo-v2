@@ -133,7 +133,7 @@
     }
 
 }
-    @media only all and (max-width: 900px) {
+@media only all and (max-width: 900px) {
     .column{
         width: 47%;
     }

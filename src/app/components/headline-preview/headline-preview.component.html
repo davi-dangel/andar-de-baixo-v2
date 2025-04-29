@@ -3,7 +3,7 @@
         <span class="headline hl3">{{headline?.title}}</span>
         @if(headline?.subtitle){
             <p>
-                <span class="headline hl4">{{headline?.subtitle}}</span>
+                <span class="headline hl4" [innerHTML]="headline?.subtitle"></span>
             </p>
         }
     </div>    

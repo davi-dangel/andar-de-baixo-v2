@@ -272,43 +272,6 @@
         ]
     },
     {
-        "id": 6,
-        "active": false,
-        "title": "Rádio de baixo #1",
-        "abstract": "bla bla bla",
-        "content": [
-            
-            {
-                "type": "PARAGRAPH",
-                "value": "as vezes acho que desejo duro pelo real - veja bem, desejo duro; tem que ser duro! - é, na verdade, uma ânsia, ou uma angústia, por um peso; algum peso qualquer. Sentimento muito parecido com o de precisar de ao menos um lençol para dormir à noite. Um peso, uma verdade, um valor, talvez? ou melhor: “reaver a manhã que virou lixo”. O que Ferreira Gullar quis dizer com isso? o que eu quero dizer com isso citando ele aqui? sei lá. por algum motivo parece fazer sentido."
-            },
-            {
-                "type": "IFRAME",
-                "value": {
-                    "src": "https://open.spotify.com/embed/track/2lCTH2MWwoj9CR4fzm9dzK?utm_source=generator",
-                    "width": "100%",
-                    "height": "152"
-                }
-            },
-            {
-                "type": "IFRAME",
-                "value": {
-                    "src": "https://open.spotify.com/embed/track/0HAAS6evvD9r1mN09Mfpp6?utm_source=generator",
-                    "width": "100%",
-                    "height": "152"
-                }
-            },
-            {
-                "type": "IFRAME",
-                "value": {
-                    "src": "https://open.spotify.com/embed/track/5y4lq3bxrh4DSyG10xdjyx?utm_source=generator",
-                    "width": "100%",
-                    "height": "152"
-                }
-            }
-        ]
-    },
-    {
         "id": 5,
         "active": true,
         "title": "Buenos Aires",
@@ -552,6 +515,325 @@
                         "alt": ""
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "active": false,
+        "title": "Salta",
+        "showTitle": false,
+        "imgPreview": "/salta/26.jpg",
+        "abstract": "",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "/salta/01.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/02.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/03.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/04.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/05.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/06.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/07.jpg",
+                        "alt": "buenos aires"
+                    },
+                    {
+                        "src": "/salta/08.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/09.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/10.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/11.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/12.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/13.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/14.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/15.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/16.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/17.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/18.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/19.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/20.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/21.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/22.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/23.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/24.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/25.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/26.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/27.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/28.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/29.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/30.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/31.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/32.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/33.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/34.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/35.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/36.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/37.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/38.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "/salta/39.jpg",
+                        "alt": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "active": true,
+        "title": "Rádio de baixo #1",
+        "abstract": "Postar links do Spotify não é mais suficiente, eu preciso ter minha própria rádio. Enquanto isso não for possível, vou deixar por aqui o que tenho ouvido.",
+        "content": [
+            
+            {
+                "type": "PARAGRAPH",
+                "value": "Durante minha estadia em solo porteño, fiquei meio de saco cheio das músicas que estava ouvindo: sempre os mesmos artistas, as mesmas músicas e os mesmos vícios do falido algoritmo do Spotify, que se recusa a oferecer uma novidade com alguma coisa de familiar para manter a roda girando. Nesse marasmo cheio de mesmices (rs), comecei a ouvir um pouco de rádio aqui e ali, e deu bom o negócio. <s>Não ter controle sobre o que se ouve é um alívio (não ter controle no geral é um refresco, mas isso é papo para outro texto)</s>."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Como sou um deslumbrado, fiquei fantasiando como seria divertido ter uma estaçãozinha de rádio amador durante a madrugada para dividir algumas canções com os solitários, os bêbados e os transantes da noite paulistana. Enquanto isso não acontece, vou me contentando em dividir com vocês algumas canções que não necessariamente tenho ouvido, mas quero compartilhar por motivos de que eu valorizo muito o que quero ~e isso já é mais que motivo suficiente."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Para abrir, acho justo começar com o excelentíssimo Maurício Pereira, que tem seu programa, <i>Música Falada</i>, todas as segundas, às 20h, na rádio Eldorado. Aqui daria para compartilhar \"Mulheres de Bengala\", do álbum Outono no Sudeste, ou \"Pan y Leche\", de Mergulhar na Surpresa, mas eu estou há pelo menos um mês sem conseguir parar de ouvir essa carta de amor chamada \"Trovoa\" (valeu JB por compartilhar, e valeu pessoa que pediu recomendação de música). Não tenho nada a dizer sobre ela. Não há nada a ser dito na verdade; ela por si só é inteira, completa e verdadeira. Ouçam."
+            },            
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/0HAAS6evvD9r1mN09Mfpp6?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Continuando na trilha dos apaixonados da cena independente: Bruno Berle. Fica aqui a recomendação dos dois álbuns do Bruno, <i>No Reino dos Afetos</i> e <i>No Reino dos Afetos 2</i> ~2 até porque apenas uma vez no reino dos afetos não seria suficiente. Ambos álbuns são íntimos, sensíveis e, por vezes, assemelham-se tanto à um regaço cheio de carinho que é quase possível sentir o afago. Como me impus a regra de escolher apenas uma música para recomendar, vou de \"Te Amar Eterno\", música que abre o segundo álbum."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/2lCTH2MWwoj9CR4fzm9dzK?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Já que estamos falando da cena independente, serei um tanto bairrista e vou falar de mais um artista da cena independente paulistana ~prometo que vou tentar ser mais plural e menos bairrista. Ele, que é um dos fundadores e idealizadores do Picles: Rafael Castro! (Palmas! Palmas!) Não tem nem um mês que conheci ele pelo perfil do Picles no Instagram, e eu estou as-sus-ta-do-ra-men-te obcecado pelo álbum <i>Vaidosos Demais</i>, que ele lançou ano passado. Tem alguma coisa de engraçado, de sério sem se levar a sério (sim), é plural, não se prende a um ritmo ou estilo e ainda denuncia a infestação e a idealização dos ditos \"Bar e Lanches\", que tanto atormentam nossa cidade na medida em que mantêm alguma coisa de vida boêmia ou servem de socorro madrugada adentro nessa cidade que dorme, apesar de sua fama."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/5y4lq3bxrh4DSyG10xdjyx?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Seguindo para o território mineiro, você talvez já tenha ouvido falar da viral Amélia do Carmo, vulgo AméliaJanta, mas muito provavelmente não sabe que ela é vocalista da ótima banda juiz forana, Varanda ~seguimos louvando a cena independente! Eles têm apenas um álbum; não custa nada parar um pouquinho e dar uma moral para os excelentes 38 minutos que esse álbum tem. Vai cair o ouvido por acaso? Gosto tanto deles que vou abrir uma exceção e postar duas músicas, porque fui eu que fiz as regras e posso muito bem desfazê-las quando quiser. Segue aí: \"Vida Pacata\" e \"Bahia e Aviões\"."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/0pH6bf3GF7F9jQQdT7IVJ8?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/03R9ke8gpY5VVAAWBOxm3p?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            
+            {
+                "type": "PARAGRAPH",
+                "value": "Fechando a cena independente, nada melhor do que colocar um maldito da MPB ~abençoados sejam os malditos da MPB e todas as experimentações, sem reconhecimento, que eles trouxeram para a música brasileira. Minha vontade aqui era colocar todas as do gênio, do querido louco, Tom Zé, mas capaz de eu escrever um Rádio de Baixo (risos) só para ele (ele é a minha maior obsessão musical desse ano). No lugar do Tom Zé, vou puxar sardinha para outro paulistano de coração, Itamar Assumpção, que detestava o título de “Maldito da MPB”, segundo comentários que li no YouTube enquanto escavava seus álbuns outro dia… Como a regra da música única caiu do caminhão, com o perdão do uso errado da expressão, na estrada entre São Paulo e Minas Gerais, vou deixar três músicas dele aqui também: \"Vida de Artista\", \"Que Tal o Impossível\" e \"Persigo São Paulo\", que eu ainda não sei se ele está falando mal da cidade ou não, fica com o ouvinte resolver isso daí."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/2Mmbiks5s5pGcs8blR1tFR?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/4MYJ89XTPIflobBt5yNxJM?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/6ZIwkoPw02yx1A7Z5nLiWH?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            
+            {
+                "type": "PARAGRAPH",
+                "value": "Quero fechar aqui com duas cantoras latino-americanas porque, no momento, estou meio <i>La Gran Nación Latinoamericana</i> das ideias ~olha como ele é decolonial. A primeira é \"Volver a los 17\", da chilena Violeta Parra, que, cantada nas vozes do Bituca e de Mercedes Sosa, está vivendo livre na minha cabeça. Essa combinação de três artistas latinos-americanos, de países diferentes me deixou um tanto <i>nuestro norte es el sur</i> e casa com o momento."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/5iM1d3XfIwIYJMjUJhrce3?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            
+            {
+                "type": "PARAGRAPH",
+                "value": "Por fim, a mexicana Silvana Estrada, que acompanho desde que lançou seu álbum <i>Marchita</i> em 2022. Gosto de tudo dela! Os EPs, o álbum, as colaborações (ela tem uma cumbia com Daniel Me Estás Matando que é uma delícia). Tem algo de diferente na voz dela que não sei dizer bem o que é. Além disso, toda a sensibilidade que ela consegue traduzir com seu cuatro (um violãozinho venezuelano que é uma graça) toca lugares que não são tão visitados assim aqui dentro. Além disso, o show dela é uma delícia (#VoltaProBrasilSilvana). Enfim, vou deixar aqui duas músicas do EP <i>Abrazo</i>: a primeira é \"Se Me Ocurre\", mais uma canção de amor para a lista — porque amar é bom demais, certo? — e a segunda é uma música que ela escreveu para falar sobre violência contra as mulheres, que faz qualquer um chorar com o trato tão delicado que colocou num tema tão duro."
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/2rIKsynpXAj5bHFdY6ESE1?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/4fZJ1PRKY0cWC8PRWnRZQa?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "IFRAME",
+                "value": {
+                    "src": "https://open.spotify.com/embed/track/3Tv57oLXrydAK4Hlwm7fX6?utm_source=generator",
+                    "width": "100%",
+                    "height": "152"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Terminou meio deprê, mas é o que tenho a oferecer hoje. Um beijo para você que chegou até aqui, e até a próxima (se tiver uma próxima)."
             }
         ]
     }
