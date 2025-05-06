@@ -877,7 +877,7 @@
         "id": 8,
         "active": true,
         "title": "Ushuaia - Pt. 1",
-        "showTitle": false,
+        "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/ushuaia/01.jpg",
         "abstract": "",
         "content": [
