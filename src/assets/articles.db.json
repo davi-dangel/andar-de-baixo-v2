@@ -982,6 +982,91 @@
     },
     {
         "id": 9,
+        "active": true,
+        "title": "Eu Odeio Baratas",
+        "showTitle": true,
+        "abstract": "As primeiras em horas em BH não foram exatamente como eu imaginava...",
+        "content": [
+            {
+            "type": "PARAGRAPH",
+            "value": "Na sexta acordei doente. Tinha pedido o dia de folga para dar uma última volta por São Paulo, mas acabei derrubado na cama o dia inteiro. No sábado, ainda doente, acordei cedo, arrumei a casa que tinha planejado arrumar no dia anterior e fui tomar banho. Ainda da maneira como vim ao mundo, o interfone toca, e a dona da casa, com vinte minutos de antecedência, avisa que já chegou."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Minhas malas nem estavam prontas…"
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Entre uma limpada no nariz e uma dobrada de roupa, me visto sei lá como e consigo guardar todas as peças antes de ela chegar no apartamento."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "A ida até o aeroporto doente foi triste. Uber ~muito gente boa, mas que queria conversar enquanto eu só queria me enterrar~ até Santos-Imigrantes. Fiz a baldiação na Consolação sentido à charmosa estação da Luz. Lá, pego o Expresso Aeroporto. Desço na estação, ajudo um estranho que queria ir até o Brás e, enfim, entro no ônibus até o terminal. 12:20. Meu voo? 16:55. Eu já havia feito o check-in com antecedência, me restou almoçar e esperar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "E esperar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "E esperar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "E esperar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "…"
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Esperar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Nariz escorrendo, meio febril, dor no corpo e muitas horas sem absolutamente nada para fazer pela frente. Poderia ler um livro, algumas crônicas, sei lá, mas eu só queria deitar."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "O voo? a maior paz. 40 minutos no ar e só eu na fileira. Recostei a poltrona, puxei o kindle e senti que poderia ali mesmo ir para os braços do nosso senhor e salvador jesus cristo, mas quis o destino, ou o diabo, que eu passasse pelo deserto da provação."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Cheguei praticamente sem bateria e das 10 tomadas que testei no aeroporto ~QUE FICA A QUARENTA LONGOS QUILÔMETROS DA CIDADE~, nenhuma funcionava ~tem dias que simplesmente não são. Na gana de chegar no apartartamento o mais rápido possível cometi um dos mais caros uberes de minha carreira como passageiro. Mais uma vez o motorista queria muito conversar, enquanto eu só queria chegar logo no apartamento ~mal sabia eu o que teria que enfrentar assim que chegasse."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Desço do carro, entro no prédio e me identifico. Os responsáveis pelo airbnb haviam esquecido de mandar todos os meus documentos, mas com 10 minutos de papo deu pra ajeitar as coisas e consegui entrar. A alegria pelo chão de taco e pela janela grande não duraram dois minutos inteiros… um cheiro como que vindo diretamente de um bueiro próximo ao rio Tiête invadiu meu nariz e, para meu pesadelo, estava vindo da cozinha."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Coloco minhas malas na mesa, fecho a porta e entro na cozinha."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Que. Nojo."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Um exército de baratinhas cascudas, sujas, nojentas, asquerosas, imundas e sórdidas andando no chão, na parede, sob a geladeira, perto do ralo, dentro do tanque… Não me lembro de sentir tanto asco assim na minha vida."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Eu odeio baratas. Inclusive, sou paranoico com elas - fico sentindo a presença delas onde não tem, vejo a sombra delas com o canto do olho e quando vejo não tem nada. Me alivia não sentir o cheiro delas; acho que não poderia nunca mais dormir tranquilamente. Dormir tranquilo que é outro perrengue; tenho colocado vêneno e naftalina espalhados por aí. Escovar os dentes três ou quatro vezes virou regra, não quero nem sonhar com a possibilidade de baratas perto da minha boca."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Não foi um começo muito bom aqui em Belo Horizonte; como diz o JB, nem sempre a gente merece o melhor, mas eu sou esperançoso e sei que alguma coisa boa vai rolar ~no caso já rolou, mas isso é assunto pra outro texto."
+            },
+            {
+            "type": "PARAGRAPH",
+            "value": "Enfim, quem é de energia e puder mandar energia negativa para as baratas agradeço."
+            }
+        ]
+    },
+    {
+        "id": 10,
         "active": false,
         "title": "Ushuaia - Pt. 2",
         "showTitle": false,
@@ -1164,7 +1249,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "active": false,
         "title": "Ushuaia - Pt. 3",
         "showTitle": false,
