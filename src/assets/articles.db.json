@@ -1067,7 +1067,48 @@
     },
     {
         "id": 10,
-        "active": false,
+        "active": true,
+        "title": "As baratas seguem, mas eu sigo também",
+        "showTitle": true,
+        "abstract": "Agora já são duas semanas em Belo Horizonte. As baratas continuam por aqui.",
+        "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "Três pares de pernas marrons e peludas, duas antenas, costas crocantes - que nas mais perversas possui dois pares de asas anexadas (asas que não servem para voar! Assim como o buzz lightyear, em toy story, elas apenas caem com estilo)."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Comem de tudo! Da madeira à cerveja, passando por carne, batata, doces e tudo mais que estiver à disposição. De hábitos noturnos, esses pequenos diabos parecem ter preferência pela cozinha e pelo banheiro."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Para entrar nesses ambientes, tenho sido extremamente cauteloso. No banheiro, o ritual é acender a luz, chutar a porta, empurrá-la até que esteja completamente aberta e olhar, primeiro para o box e em seguida para a janela (locais em que as vi com mais frequência), e, por fim, o vaso e a pia."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Na cozinha, o ritual é parecido, porém mais arriscado. O interruptor fica do lado de dentro, já no território inimigo. Com frasco de veneno em mãos, o proceder começa com o chute na porta também. Em seguida uso o frasco para acender a luz - já que vi algumas delas entrando e saindo do interruptor. Analiso a parede, a pia e depois atrás da porta - acho que elas têm um ninho dentro da porta, mas não tive sucesso identificando por qual cu de porta elas entram. Feito isso, dou uma olhada na lavanderia: primeiro o ralo no chão e em seguida o tanquinho. Esse tanquinho fede (E MUITO!) - talvez seja por ele que elas(ou ela, a barata mãe, a barata original, cheia de ovinhos marrons) entraram pela primeira vez, e agora, com tudo empesteado, estão nas janelas, nas tomadas, interruptores de luz e portas."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Leonard Cohen cantava que em tudo há uma rachadura, e é por ela que a luz entra. Por aqui, infelizmente, há rachaduras e buracos em todas as paredes e é nelas que elas transam, botam ovos e se escondem."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Minha paranoia cresce cada dia mais, há tempos via baratas onde não existem, mas estar em uma casa em que elas existem, de fato, só piora a situação. Por vezes, no cantinho do olho, vejo movimentos que julgo serem delas."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "No meu íntimo gostaria que fossem espíritos obsessores ou mortos vindo me atormentar. Acho que ficaria mais em paz vendo um fantasma ou um diabo do que uma barata, mas é com elas que tenho que lidar."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Duas semanas já foram e dificilmente estenderei minha estadia em BH. Restam só mais duas semanas disso (espero eu). Até lá, o objeto é não enlouquecer, enquanto tento aproveitar a cidade."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "active": true,
         "title": "Ushuaia - Pt. 2",
         "showTitle": false,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/ushuaia/23.jpg",
@@ -1249,7 +1290,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "active": false,
         "title": "Ushuaia - Pt. 3",
         "showTitle": false,
