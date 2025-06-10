@@ -13,9 +13,13 @@ export class ContentGallery implements Content{
 export class Image{
     src: string;
     alt: string;
+    camera?: string | null;
+    film?: string | null;
 
     constructor(args: Partial<Image> = {}) {
         this.src = args.src ?? '';
         this.alt = args.alt ?? '';
+        this.camera = args.camera ?? null;
+        this.film = args.film ?? null;
     }
 }

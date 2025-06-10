@@ -215,6 +215,8 @@
         "active": true,
         "title": "Azul? Teu Cu!",
         "abstract": "Ferreira Gullar trouxe uma raiva latente à superficie",
+        "location": "Ushuaya, Argentina",
+        "date": "Março, 2025",
         "content": [
             {
                 "type": "PARAGRAPH",
@@ -278,6 +280,8 @@
         "showTitle": false,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/buenos-aires/41.jpg",
         "abstract": "",
+        "location": "Buenos Aires, Argentina",
+        "date": "Janeiro, 2025",
         "content": [
             {
                 "type": "PARAGRAPH",
@@ -523,6 +527,8 @@
         "active": true,
         "title": "Rádio de baixo #1",
         "abstract": "Postar links do Spotify não é mais suficiente, eu preciso ter minha própria rádio. Enquanto isso não for possível, vou deixar por aqui o que tenho ouvido.",
+        "location": "São Paulo, Brasil",
+        "date": "Abril, 2025",
         "content": [
             
             {
@@ -673,6 +679,8 @@
         "showTitle": false,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/salta/26.jpg",
         "abstract": "",
+        "location": "Salta, Argentina",
+        "date": "Fevereiro, 2025",
         "content": [
             {
                 "type": "PARAGRAPH",
@@ -880,6 +888,8 @@
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/ushuaia/01.jpg",
         "abstract": "",
+        "location": "Ushuaya, Argentina",
+        "date": "Março, 2025",
         "content": [
             {
                 "type": "PARAGRAPH",
@@ -986,6 +996,8 @@
         "title": "Eu Odeio Baratas",
         "showTitle": true,
         "abstract": "As primeiras em horas em BH não foram exatamente como eu imaginava...",
+        "location": "Belo Horizonte, Brasil",
+        "date": "Maio, 2025",
         "content": [
             {
             "type": "PARAGRAPH",
@@ -1071,6 +1083,8 @@
         "title": "As baratas seguem, mas eu sigo também",
         "showTitle": true,
         "abstract": "Agora já são duas semanas em Belo Horizonte. As baratas continuam por aqui.",
+        "location": "Belo Horizonte, Brasil",
+        "date": "Maio, 2025",
         "content": [
             {
                 "type": "PARAGRAPH",
@@ -1113,177 +1127,263 @@
         "showTitle": false,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/ushuaia/23.jpg",
         "abstract": "",
+        "location": "Ushuaya, Argentina",
+        "date": "Março, 2025",
         "content": [
             {
                 "type": "GALLERY",
                 "value": [
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/23.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/24.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/25.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/26.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/27.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/28.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/29.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/30.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/31.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/32.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/33.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/34.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/35.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/36.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/37.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/38.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/39.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/40.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/41.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/42.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/43.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/44.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/45.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/46.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/47.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/48.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/49.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/50.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/51.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/52.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/53.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/54.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/55.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/56.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/57.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/58.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/59.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/60.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/61.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/62.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/63.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/64.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Kodak Gold 200"
                     }
                 ]
             }
@@ -1291,166 +1391,244 @@
     },
     {
         "id": 12,
-        "active": false,
+        "active": true,
         "title": "Ushuaia - Pt. 3",
         "showTitle": false,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/ushuaia/65.jpg",
         "abstract": "",
+        "location": "Ushuaya, Argentina",
+        "date": "Março, 2025",
         "content": [
             {
                 "type": "GALLERY",
                 "value": [
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/65.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/66.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/67.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/68.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/69.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/70.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/71.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/72.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/73.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/74.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/75.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/76.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/77.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/78.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/79.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/80.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/81.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/82.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/83.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/84.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/85.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/86.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/87.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/88.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/89.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/90.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/91.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/92.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/93.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/94.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/95.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/97.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/98.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/99.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/100.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/101.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/102.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ushuaia/103.jpg",
-                        "alt": ""
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fuji Eterna"
                     }
                 ]
             }

@@ -1,1 +1,13 @@
-@import url('../../../../app.component.css');
+/* @import url('../../../../app.component.css'); */
+
+.img-container {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px 10px 20px 10px;
+    font-style: italic;
+    text-align: right;
+}
+
+.img-container span{
+    padding-right: 10px;
+}

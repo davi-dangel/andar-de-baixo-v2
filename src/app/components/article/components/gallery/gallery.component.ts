@@ -39,7 +39,9 @@ ngOnInit() {
           itemImageSrc: image.src,
           thumbnailImageSrc: image.src,
           alt: image.alt,
-          title: image.alt
+          title: image.alt,
+          camera: image.camera || null,
+          film: image.film || null
         };
       });
     }

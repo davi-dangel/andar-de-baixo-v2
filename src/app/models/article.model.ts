@@ -6,6 +6,8 @@ export class Article{
     img: string | null;
     abstract: string | null;
     content: string[] | null;
+    location: string | null = null;
+    date: string | null = null;
     active: boolean = false;
 
     constructor(args: Partial<Article> = {}){
@@ -15,6 +17,8 @@ export class Article{
         this.img = args.img ?? null;
         this.abstract = args.abstract ?? null;
         this.content = args.content ?? null;
+        this.location = args.location ?? null;
+        this.date = args.date ?? null;
         this.active = args.active ?? false;
     }
 }

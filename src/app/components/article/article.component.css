@@ -20,3 +20,9 @@
     box-sizing: border-box;
     padding: 10px 0 10px 0;
 }
+
+.location-container{
+    display: block;
+    text-align: right;
+    font-style: italic;
+}
