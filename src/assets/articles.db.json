@@ -1633,5 +1633,182 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 13,
+        "active": true,
+        "title": "Escrever",
+        "showTitle": true,
+        "imgPreview": "",
+        "abstract": "",
+        "location": "Salvador, Bahia",
+        "date": "Junho, 2025",
+        "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever, escrever, escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever, escrever, escrever…"
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever?"
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever!"
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever e escrever e escrever e escrever e escrever e escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever enquanto lê; escrever enquanto come; escrever enquanto trabalha; escrever enquanto dorme; escrever enquanto sonha; escrever enquanto escreve; escrever enquanto vive."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever como preceito imperativo imposto à vida imposta."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever! e seguir escrevendo."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Escrever sobre escrever. escrever sobre comida, escrever sobre o mar, escrever sobre bêbados que se encontram num barco na baia de todos santos. Escrever sobre a Bahia de todos os Santos! Escrever sobre São Paulo, escrever sobre Santa Clara e escrever sobre São Francisco; escrever sobre Santo Antônio, e sobre os castigos que sofre, e sobre os casamentos ruins que abençoa, e sobre os pescadores que ele guarda da doce morte nas ondas verdes do mar. Escrever sobre a sereia bonita que levou o pescador do mar."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "E continuar a escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "E continuar."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Até que os dedos travem, que a vista embace, que a cabeça doa e que o cérebro confunda."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "E então descansar, para logo depois escrever."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "E escrever."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "active": false,
+        "title": "São Paulo é outra coisa",
+        "showTitle": false,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/sao-paulo/16.jpg",
+        "abstract": "",
+        "location": "São Paulo, Brasil",
+        "date": "Abril, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/1.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/2.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/4.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/5.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/6.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/7.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/8.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/9.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/10.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/11.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/12.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/13.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/14.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/15.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/16.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-paulo/17.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    }
+                ]
+            }
+        ]
     }
 ]
