@@ -1712,14 +1712,18 @@
     },
     {
         "id": 14,
-        "active": false,
-        "title": "São Paulo é outra coisa",
-        "showTitle": false,
+        "active": true,
+        "title": "São Paulo é Outra Coisa",
+        "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/sao-paulo/16.jpg",
         "abstract": "",
         "location": "São Paulo, Brasil",
         "date": "Abril, 2025",
         "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "Estava em dúvidas se postaria essas fotos. O laboratório onde levei as fotos para revelar, com o perdão do português, cagou no pau, e eu odiei o resultado das fotos coloridas. Além disso, tentei inúmeras vezes escrever algo sobre São Paulo; tentei construir algo a partir de músicas ~ o título, inclusive, faz eferência a Itamar Assumpção~, a partir das padarias, da comida, das suas mentiras e contradições, mas nada funcionou. Como problema que não tem solução não é problema e, como logo mais quero postar as fotos de Minas Gerais, seguem as fotos com alguma coisa de alguns momentos nessa cidade que, de fato, é outra coisa."
+            },
             {
                 "type": "GALLERY",
                 "value": [
@@ -1808,6 +1812,10 @@
                         "film": "Portra 400"
                     }
                 ]
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "PS.: São as primeiras fotos com a Olympus e meu primeiro filme preto e branco. Estou completamente apaixonado por fotos em preto e branco, e elas vão começar a ser muito comuns por aqui."
             }
         ]
     }
