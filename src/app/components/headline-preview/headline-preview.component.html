@@ -6,17 +6,17 @@
                 <span class="headline hl4" [innerHTML]="headline?.subtitle"></span>
             </p>
         }
-    </div>    
-    
+    </div>
+
+    @if(headline?.abstract){
+        <p>{{headline?.abstract}}</p>
+    }
+
     @if(headline?.imgPreview){
         <figure class="figure">
             <img class="media" src="{{headline?.imgPreview}}" alt="Headline Image">
             <!-- <figcaption class="figcaption">caption</figcaption> -->
              <!--TODO: ADD CAPTION-->
         </figure>
-    }
-
-    @if(headline?.abstract){
-        <p>{{headline?.abstract}}</p>
     }
 </div>

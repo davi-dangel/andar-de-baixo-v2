@@ -1716,7 +1716,6 @@
         "title": "São Paulo é Outra Coisa",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/sao-paulo/16.jpg",
-        "abstract": "",
         "location": "São Paulo, Brasil",
         "date": "Abril, 2025",
         "content": [
@@ -1816,6 +1815,195 @@
             {
                 "type": "PARAGRAPH",
                 "value": "PS.: São as primeiras fotos com a Olympus e meu primeiro filme preto e branco. Estou completamente apaixonado por fotos em preto e branco, e elas vão começar a ser muito comuns por aqui."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "active": true,
+        "title": "Belo Horizonte",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/belo-horizonte/01.JPG",
+        "abstract": "",
+        "location": "Belo Horizonte, Brasil",
+        "date": "Maio, 2025",
+        "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "Ainda na pegada de São Paulo, não gostei muito das fotos que tirei em Belo Horizonte Mesmo filme, mesma câmera, mesma revelação. Logo de cara, joguei a culpa no laboratório que as revelou; agora estou em dúvida se é a minha câmera que está com problemas. A ver os fatos."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Além disso, quando recebi as fotos, percebi, não pela primeira vez, mas de modo mais potente, que a fotografia fala mais de quem clica do que da imagem que é capturada. Me percebi bastante tímido nessas fotos e, por me revelar demais fiquei em dúvidas se postaria. se você está vendo as fotos, é porque decidi honrar o compromisso que fiz comigo."
+            },
+            {
+                "type": "PARAGRAPH",
+                "value": "Por fim, Belo Horizonte foi a cidade que menos gostei e, talvez a única que detestei até agora. Pode ser que a culpa disso caia nas baratas, as verdadeiras moradoras do Airbnb que loquei, que me causaram extremo desconforto, o qual também é visível, ao menos para mim, nas fotos que tirei, e também nas fotos que não tirei. Não tenho planos para voltar a BH. Talvez um dia eu volte, veja a cidade de outra maneira, com menos baratas, talvez, mas até lá, é isso."
+            },
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/01.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/02.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/03.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/04.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/05.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/06.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/07.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/08.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/09.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/10.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/11.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/12.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/13.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/14.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/15.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/16.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/17.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/18.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/19.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/20.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/21.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/22.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/23.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/24.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/25.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/26.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/27.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/28.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/29.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belo-horizonte/30.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    }
+                ]
             }
         ]
     }
