@@ -41,7 +41,8 @@ ngOnInit() {
           alt: image.alt,
           title: image.alt,
           camera: image.camera || null,
-          film: image.film || null
+          film: image.film || null,
+          favorite: image.favorite || null
         };
       });
     }

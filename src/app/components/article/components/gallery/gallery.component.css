@@ -11,3 +11,8 @@
 .img-container span{
     padding-right: 10px;
 }
+
+.favorite-icon {
+    color: gold;
+    font-size: 1.2em;
+}

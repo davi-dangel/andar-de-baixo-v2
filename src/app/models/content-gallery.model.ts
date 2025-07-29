@@ -15,11 +15,13 @@ export class Image{
     alt: string;
     camera?: string | null;
     film?: string | null;
+    favorite?: boolean | null;
 
     constructor(args: Partial<Image> = {}) {
         this.src = args.src ?? '';
         this.alt = args.alt ?? '';
         this.camera = args.camera ?? null;
         this.film = args.film ?? null;
+        this.favorite = args.favorite ?? null;
     }
 }

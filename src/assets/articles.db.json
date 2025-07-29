@@ -2006,5 +2006,142 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 16,
+        "active": true,
+        "title": "Instituto Inhotim",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/inhotim/19.jpg",
+        "abstract": "",
+        "location": "Brumadinho, Brasil",
+        "date": "Maio, 2025",
+        "content": [
+            {
+                "type": "PARAGRAPH",
+                "value": "<a href=\"https://latinamericanotice.blogspot.com/\" target=\"_blank\">CONHEÇAM PAULO NAZARETH</a>"
+            },
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/01.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400",
+                        "favorite": true
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/02.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/03.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/04.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/05.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400",
+                        "favorite": true
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/06.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/07.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/08.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/09.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/10.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/11.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/12.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/13.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/14.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/15.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/16.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/17.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/18.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/inhotim/19.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    }
+                ]
+            }
+        ]
     }
 ]

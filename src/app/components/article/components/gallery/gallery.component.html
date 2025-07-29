@@ -3,6 +3,7 @@
         <img [src]="image.thumbnailImageSrc" [alt]="image.alt" style="cursor: pointer; width: 100%; margin-bottom: 15px;" (click)="imageClick(index)" />
         <span>{{image.camera}}</span><br>
         <span>{{image.film}}</span><br>
+        <span *ngIf="image.favorite" class="favorite-icon">★</span>
     </div>
 </div>
 <p-galleria 
