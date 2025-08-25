@@ -2143,5 +2143,171 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 17,
+        "active": true,
+        "title": "Ouro Preto",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/ouro-preto/26-olympus.JPG",
+        "abstract": "",
+        "location": "Ouro Preto, Brasil",
+        "date": "Maio, 2025",
+        "content": [
+            {
+                "type":"PARAGRAPH",
+                "value": "Tenho coisa a dizer sobre Ouro Preto e coisas a contar do que senti quando estive lá (especialmente sobre meu encontro com jesus estátua morto que achei que estava vivo), mas são coisas pro futuro. Por enquanto, só as fotos. <i>Tchau!</i>"
+            },
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/01-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/02-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/03-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/04-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/05-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/06-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/07-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/08-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/09-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/10-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/11-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/12-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/13-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/14-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/15-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/16-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/17-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/18-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/19-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/20-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/21-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/22-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/23-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/24-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/25-kodak.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/26-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/27-olympus.JPG",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    }
+                ]
+            }
+        ]
     }
 ]
