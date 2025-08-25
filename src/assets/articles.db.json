@@ -2156,7 +2156,7 @@
         "content": [
             {
                 "type":"PARAGRAPH",
-                "value": "Tenho coisa a dizer sobre Ouro Preto e coisas a contar do que senti quando estive lá (especialmente sobre meu encontro com jesus estátua morto que achei que estava vivo), mas são coisas pro futuro. Por enquanto, só as fotos. <i>Tchau!</i>"
+                "value": "Tenho coisas a dizer sobre Ouro Preto e coisas a contar do que senti quando estive lá (especialmente sobre meu encontro com jesus estátua morto que achei que estava vivo), mas são coisas pro futuro. Por enquanto, só as fotos. <i>Tchau!</i>"
             },
             {
                 "type": "GALLERY",
@@ -2231,16 +2231,14 @@
                         "film": "Portra 400"
                     },
                     {
-                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/14-kodak.jpg",
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/14-kodak.JPG",
                         "alt": "",
-                        "camera": "Kodak Ektar H35N",
-                        "film": "Portra 400"
+                        "camera": "Olympus Infinity Zoom 70"
                     },
                     {
-                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/15-kodak.jpg",
+                        "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/15-kodak.JPG",
                         "alt": "",
-                        "camera": "Kodak Ektar H35N",
-                        "film": "Portra 400"
+                        "camera": "Olympus Infinity Zoom 70"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/ouro-preto/16-olympus.JPG",
