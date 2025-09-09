@@ -2307,5 +2307,157 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 18,
+        "active": true,
+        "title": "Salvador - Pt. 1",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/salvador/02.jpg",
+        "abstract": "",
+        "location": "Salvador, Brasil",
+        "date": "Junho/Julho, 2025",
+        "content": [
+            {
+                "type":"PARAGRAPH",
+                "value": "Terra de Caymmi e João Gilberto; de Caetano, Jorge, Gil e de Marias, seja ela Betânia ou da Graça, e de tantos outros que, mesmo não sendo baianos de nascença se tornaram no coração. Estrelas do céu brasileiro que são o que são por serem filhos das ondas verdes do mar da Bahia (te amo Caymmi, meu guia de Salvador junto com Carybé)."
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "No recôncavo bahiano é onde o nada e o tudo acontecem o tempo todo, onde as coisas são o que são e se tornam outras sem deixarem de ser o que eram; na Bahia, Oxóssi ganha a alcunha de São Jorge e São Jorge a de Oxóssi, mas Oxóssi segue sendo Óxossi e São Jorge, continua como São Jorge."
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "O que era, para que continue sendo, muda, vira outra coisa, mas continua ela mesma e uma coisa nova; Na Bahia, dança é luta, ou será que luta é dança? Ou será que dança é só dança e não é luta? Não poderia ser. Na Bahia tudo é luta e resistência. Lá, a tristeza não se chora, se bole, se balança, se samba... Samba esse que não poderia ter nascido em nenhum outro lugar do mundo, somente num lugar mágico e único, onde morrer no mar é doce, que poderiam descobrir que sambar as nossas dores é melhor do que chorar."
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "Na Bahia de Todos os Santos, foi onde Yemanjá e o Nosso Senhor do Bonfim forjaram o que talvez tenha de mais brilhante e atraente e lindo do espírito brasileiro. "
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "Enfim, a “Bahia continua como um sonho lindo” sobre o qual escreverei mais! Por enquanto, Saravá!"
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "PS.: Terá parte dois."
+            },
+            {
+                "type":"PARAGRAPH",
+                "value": "PS. 2: Nesse jogo os ingressos de visitantes esgotaram antes de eu comprar e eu tive que ver meu São Paulo perder para o Bahia de Rogério Ceni no meio da torcida deles sem esboçar reação, tirando isso, baita torcida a torcida do Bahia!"
+            },
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/01.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/02.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/03.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/04.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/05.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/06.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/07.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/08(2).jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/08.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/09.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/10.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/11.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/13.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/18.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/19.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/20.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/21.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/22.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/28.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    }
+                ]
+            }
+        ]
     }
 ]
