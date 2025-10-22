@@ -2459,5 +2459,114 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 19,
+        "active": true,
+        "title": "Salvador - Pt. 2",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/salvador/27.jpg",
+        "abstract": "",
+        "location": "Salvador & Morro de São Paulo, Brasil",
+        "date": "Junho/Julho, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/12.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/14.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/15.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/16.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/17.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/23.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/24.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/25.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/26.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/27.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/29_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/30_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/31_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/32_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/33_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/34_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/salvador/35_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Aerostill 100"
+                    }
+                ]
+            }
+        ]
     }
 ]
