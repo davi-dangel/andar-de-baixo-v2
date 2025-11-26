@@ -2568,5 +2568,357 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 20,
+        "active": true,
+        "title": "Brasília em cores",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/brasilia/23_FujiS400.jpg",
+        "abstract": "",
+        "location": "Brasília, Brasil",
+        "date": "Julho/Agosto, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/01_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/02_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/03_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/31_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/05_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/06_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/07_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/08_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/09_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/10_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/11_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/12_Aerostill.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Aerostill 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/13_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film":"Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/14_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/15_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/16_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/17_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/18_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/19_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/21_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/22_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/23_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/24_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/25_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/26_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/27_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/28_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/29_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/30_FujiS400.jpg",
+                        "alt": "",
+                        "camera": "Kodak Ektar H35N",
+                        "film": "Fujifilm 400"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "active": false,
+        "title": "Brasília em PB",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/brasilia/52_HP5.jpg",
+        "abstract": "",
+        "location": "Brasília, Brasil",
+        "date": "Julho/Agosto, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/32_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/33_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/34_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/35_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/36_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/37_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/38_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/39_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/40_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/41_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/42_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/43_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/44_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/45_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/46_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/47_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/48_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/49_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/50_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/51_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/52_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/53_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/54_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/brasilia/55_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film":"Ilford HP5 Plus 400"
+                    }
+                ]
+            }
+        ]
     }
 ]
