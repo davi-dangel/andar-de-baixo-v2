@@ -62,7 +62,7 @@
             {
                 "type": "IMAGE",
                 "value": "/me.jpg",
-                "alt":"Davi's birthday"
+                "alt": "Davi's birthday"
             },
             {
                 "type": "PARAGRAPH",
@@ -95,7 +95,7 @@
             {
                 "type": "IMAGE",
                 "value": "/rei.jpg",
-                "alt":"Davi's birthday"
+                "alt": "Davi's birthday"
             },
             {
                 "type": "PARAGRAPH",
@@ -128,7 +128,7 @@
             {
                 "type": "IMAGE",
                 "value": "/omedetou.gif",
-                "alt":"Davi's birthday"
+                "alt": "Davi's birthday"
             }
         ],
         "imgPreview": "/me.jpg"
@@ -141,19 +141,19 @@
             {
                 "type": "POEM",
                 "value": [
-                    "o inverno chegou",  
-                    "a comida faltou",  
-                    "seis meses",  
+                    "o inverno chegou",
+                    "a comida faltou",
+                    "seis meses",
                     "e já precisas da coragem de uma vida"
                 ]
             },
             {
                 "type": "POEM",
                 "value": [
-                    "o vento frio arrepia tuas plumas",  
-                    "o medo gela tua espinha",  
-                    "então,",  
-                    "com teu bico, agarras o verão",  
+                    "o vento frio arrepia tuas plumas",
+                    "o medo gela tua espinha",
+                    "então,",
+                    "com teu bico, agarras o verão",
                     "e deixas para trás teu rincão"
                 ]
             },
@@ -166,10 +166,10 @@
             {
                 "type": "POEM",
                 "value": [
-                    "de azul em azul em azul, segues",  
-                    "sem saber para onde",  
-                    "na esperança de que lá",  
-                    "(que não sabes se há)",  
+                    "de azul em azul em azul, segues",
+                    "sem saber para onde",
+                    "na esperança de que lá",
+                    "(que não sabes se há)",
                     "poderás descansar"
                 ]
             },
@@ -182,8 +182,8 @@
             {
                 "type": "POEM",
                 "value": [
-                    "estás tão longe de casa",  
-                    "voaste por tantos lugares",  
+                    "estás tão longe de casa",
+                    "voaste por tantos lugares",
                     "que não te lembras mais das paredes que deixaste"
                 ]
             },
@@ -196,9 +196,9 @@
             {
                 "type": "POEM",
                 "value": [
-                    "olho pela janela… uma multidão de asas tomam o céu",  
-                    "em seus rubros bicos, trazem cantos",  
-                    "e o verão",  
+                    "olho pela janela… uma multidão de asas tomam o céu",
+                    "em seus rubros bicos, trazem cantos",
+                    "e o verão",
                     "que enchem meu coração"
                 ]
             },
@@ -530,7 +530,6 @@
         "location": "São Paulo, Brasil",
         "date": "Abril, 2025",
         "content": [
-            
             {
                 "type": "PARAGRAPH",
                 "value": "Durante minha estadia em solo porteño, fiquei meio de saco cheio das músicas que estava ouvindo: sempre os mesmos artistas, as mesmas músicas e os mesmos vícios do falido algoritmo do Spotify, que se recusa a oferecer uma novidade com alguma coisa de familiar para manter a roda girando. Nesse marasmo cheio de mesmices (rs), comecei a ouvir um pouco de rádio aqui e ali, e deu bom o negócio. <s>Não ter controle sobre o que se ouve é um alívio (não ter controle no geral é um refresco, mas isso é papo para outro texto)</s>."
@@ -542,7 +541,7 @@
             {
                 "type": "PARAGRAPH",
                 "value": "Para abrir, acho justo começar com o excelentíssimo Maurício Pereira, que tem seu programa, <i>Música Falada</i>, todas as segundas, às 20h, na rádio Eldorado. Aqui daria para compartilhar \"Mulheres de Bengala\", do álbum Outono no Sudeste, ou \"Pan y Leche\", de Mergulhar na Surpresa, mas eu estou há pelo menos um mês sem conseguir parar de ouvir essa carta de amor chamada \"Trovoa\" (valeu JB por compartilhar, e valeu pessoa que pediu recomendação de música). Não tenho nada a dizer sobre ela. Não há nada a ser dito na verdade; ela por si só é inteira, completa e verdadeira. Ouçam."
-            },            
+            },
             {
                 "type": "IFRAME",
                 "value": {
@@ -595,7 +594,6 @@
                     "height": "152"
                 }
             },
-            
             {
                 "type": "PARAGRAPH",
                 "value": "Fechando a cena independente, nada melhor do que colocar um maldito da MPB ~abençoados sejam os malditos da MPB e todas as experimentações, sem reconhecimento, que eles trouxeram para a música brasileira. Minha vontade aqui era colocar todas as do gênio, do querido louco, Tom Zé, mas capaz de eu escrever um Rádio de Baixo (risos) só para ele (ele é a minha maior obsessão musical desse ano). No lugar do Tom Zé, vou puxar sardinha para outro paulistano de coração, Itamar Assumpção, que detestava o título de “Maldito da MPB”, segundo comentários que li no YouTube enquanto escavava seus álbuns outro dia… Como a regra da música única caiu do caminhão, com o perdão do uso errado da expressão, na estrada entre São Paulo e Minas Gerais, vou deixar três músicas dele aqui também: \"Vida de Artista\", \"Que Tal o Impossível\" e \"Persigo São Paulo\", que eu ainda não sei se ele está falando mal da cidade ou não, fica com o ouvinte resolver isso daí."
@@ -624,7 +622,6 @@
                     "height": "152"
                 }
             },
-            
             {
                 "type": "PARAGRAPH",
                 "value": "Quero fechar aqui com duas cantoras latino-americanas porque, no momento, estou meio <i>La Gran Nación Latinoamericana</i> das ideias ~olha como ele é decolonial. A primeira é \"Volver a los 17\", da chilena Violeta Parra, que, cantada nas vozes do Bituca e de Mercedes Sosa, está vivendo livre na minha cabeça. Essa combinação de três artistas latinos-americanos, de países diferentes me deixou um tanto <i>nuestro norte es el sur</i> e casa com o momento."
@@ -637,7 +634,6 @@
                     "height": "152"
                 }
             },
-            
             {
                 "type": "PARAGRAPH",
                 "value": "Por fim, a mexicana Silvana Estrada, que acompanho desde que lançou seu álbum <i>Marchita</i> em 2022. Gosto de tudo dela! Os EPs, o álbum, as colaborações (ela tem uma cumbia com Daniel Me Estás Matando que é uma delícia). Tem algo de diferente na voz dela que não sei dizer bem o que é. Além disso, toda a sensibilidade que ela consegue traduzir com seu cuatro (um violãozinho venezuelano que é uma graça) toca lugares que não são tão visitados assim aqui dentro. Além disso, o show dela é uma delícia (#VoltaProBrasilSilvana). Enfim, vou deixar aqui duas músicas do EP <i>Abrazo</i>: a primeira é \"Se Me Ocurre\", mais uma canção de amor para a lista — porque amar é bom demais, certo? — e a segunda é uma música que ela escreveu para falar sobre violência contra as mulheres, que faz qualquer um chorar com o trato tão delicado que colocou num tema tão duro."
@@ -1000,80 +996,80 @@
         "date": "Maio, 2025",
         "content": [
             {
-            "type": "PARAGRAPH",
-            "value": "Na sexta acordei doente. Tinha pedido o dia de folga para dar uma última volta por São Paulo, mas acabei derrubado na cama o dia inteiro. No sábado, ainda doente, acordei cedo, arrumei a casa que tinha planejado arrumar no dia anterior e fui tomar banho. Ainda da maneira como vim ao mundo, o interfone toca, e a dona da casa, com vinte minutos de antecedência, avisa que já chegou."
+                "type": "PARAGRAPH",
+                "value": "Na sexta acordei doente. Tinha pedido o dia de folga para dar uma última volta por São Paulo, mas acabei derrubado na cama o dia inteiro. No sábado, ainda doente, acordei cedo, arrumei a casa que tinha planejado arrumar no dia anterior e fui tomar banho. Ainda da maneira como vim ao mundo, o interfone toca, e a dona da casa, com vinte minutos de antecedência, avisa que já chegou."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Minhas malas nem estavam prontas…"
+                "type": "PARAGRAPH",
+                "value": "Minhas malas nem estavam prontas…"
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Entre uma limpada no nariz e uma dobrada de roupa, me visto sei lá como e consigo guardar todas as peças antes de ela chegar no apartamento."
+                "type": "PARAGRAPH",
+                "value": "Entre uma limpada no nariz e uma dobrada de roupa, me visto sei lá como e consigo guardar todas as peças antes de ela chegar no apartamento."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "A ida até o aeroporto doente foi triste. Uber ~muito gente boa, mas que queria conversar enquanto eu só queria me enterrar~ até Santos-Imigrantes. Fiz a baldiação na Consolação sentido à charmosa estação da Luz. Lá, pego o Expresso Aeroporto. Desço na estação, ajudo um estranho que queria ir até o Brás e, enfim, entro no ônibus até o terminal. 12:20. Meu voo? 16:55. Eu já havia feito o check-in com antecedência, me restou almoçar e esperar."
+                "type": "PARAGRAPH",
+                "value": "A ida até o aeroporto doente foi triste. Uber ~muito gente boa, mas que queria conversar enquanto eu só queria me enterrar~ até Santos-Imigrantes. Fiz a baldiação na Consolação sentido à charmosa estação da Luz. Lá, pego o Expresso Aeroporto. Desço na estação, ajudo um estranho que queria ir até o Brás e, enfim, entro no ônibus até o terminal. 12:20. Meu voo? 16:55. Eu já havia feito o check-in com antecedência, me restou almoçar e esperar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "E esperar."
+                "type": "PARAGRAPH",
+                "value": "E esperar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "E esperar."
+                "type": "PARAGRAPH",
+                "value": "E esperar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "E esperar."
+                "type": "PARAGRAPH",
+                "value": "E esperar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "…"
+                "type": "PARAGRAPH",
+                "value": "…"
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Esperar."
+                "type": "PARAGRAPH",
+                "value": "Esperar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Nariz escorrendo, meio febril, dor no corpo e muitas horas sem absolutamente nada para fazer pela frente. Poderia ler um livro, algumas crônicas, sei lá, mas eu só queria deitar."
+                "type": "PARAGRAPH",
+                "value": "Nariz escorrendo, meio febril, dor no corpo e muitas horas sem absolutamente nada para fazer pela frente. Poderia ler um livro, algumas crônicas, sei lá, mas eu só queria deitar."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "O voo? a maior paz. 40 minutos no ar e só eu na fileira. Recostei a poltrona, puxei o kindle e senti que poderia ali mesmo ir para os braços do nosso senhor e salvador jesus cristo, mas quis o destino, ou o diabo, que eu passasse pelo deserto da provação."
+                "type": "PARAGRAPH",
+                "value": "O voo? a maior paz. 40 minutos no ar e só eu na fileira. Recostei a poltrona, puxei o kindle e senti que poderia ali mesmo ir para os braços do nosso senhor e salvador jesus cristo, mas quis o destino, ou o diabo, que eu passasse pelo deserto da provação."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Cheguei praticamente sem bateria e das 10 tomadas que testei no aeroporto ~QUE FICA A QUARENTA LONGOS QUILÔMETROS DA CIDADE~, nenhuma funcionava ~tem dias que simplesmente não são. Na gana de chegar no apartartamento o mais rápido possível cometi um dos mais caros uberes de minha carreira como passageiro. Mais uma vez o motorista queria muito conversar, enquanto eu só queria chegar logo no apartamento ~mal sabia eu o que teria que enfrentar assim que chegasse."
+                "type": "PARAGRAPH",
+                "value": "Cheguei praticamente sem bateria e das 10 tomadas que testei no aeroporto ~QUE FICA A QUARENTA LONGOS QUILÔMETROS DA CIDADE~, nenhuma funcionava ~tem dias que simplesmente não são. Na gana de chegar no apartartamento o mais rápido possível cometi um dos mais caros uberes de minha carreira como passageiro. Mais uma vez o motorista queria muito conversar, enquanto eu só queria chegar logo no apartamento ~mal sabia eu o que teria que enfrentar assim que chegasse."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Desço do carro, entro no prédio e me identifico. Os responsáveis pelo airbnb haviam esquecido de mandar todos os meus documentos, mas com 10 minutos de papo deu pra ajeitar as coisas e consegui entrar. A alegria pelo chão de taco e pela janela grande não duraram dois minutos inteiros… um cheiro como que vindo diretamente de um bueiro próximo ao rio Tiête invadiu meu nariz e, para meu pesadelo, estava vindo da cozinha."
+                "type": "PARAGRAPH",
+                "value": "Desço do carro, entro no prédio e me identifico. Os responsáveis pelo airbnb haviam esquecido de mandar todos os meus documentos, mas com 10 minutos de papo deu pra ajeitar as coisas e consegui entrar. A alegria pelo chão de taco e pela janela grande não duraram dois minutos inteiros… um cheiro como que vindo diretamente de um bueiro próximo ao rio Tiête invadiu meu nariz e, para meu pesadelo, estava vindo da cozinha."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Coloco minhas malas na mesa, fecho a porta e entro na cozinha."
+                "type": "PARAGRAPH",
+                "value": "Coloco minhas malas na mesa, fecho a porta e entro na cozinha."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Que. Nojo."
+                "type": "PARAGRAPH",
+                "value": "Que. Nojo."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Um exército de baratinhas cascudas, sujas, nojentas, asquerosas, imundas e sórdidas andando no chão, na parede, sob a geladeira, perto do ralo, dentro do tanque… Não me lembro de sentir tanto asco assim na minha vida."
+                "type": "PARAGRAPH",
+                "value": "Um exército de baratinhas cascudas, sujas, nojentas, asquerosas, imundas e sórdidas andando no chão, na parede, sob a geladeira, perto do ralo, dentro do tanque… Não me lembro de sentir tanto asco assim na minha vida."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Eu odeio baratas. Inclusive, sou paranoico com elas - fico sentindo a presença delas onde não tem, vejo a sombra delas com o canto do olho e quando vejo não tem nada. Me alivia não sentir o cheiro delas; acho que não poderia nunca mais dormir tranquilamente. Dormir tranquilo que é outro perrengue; tenho colocado vêneno e naftalina espalhados por aí. Escovar os dentes três ou quatro vezes virou regra, não quero nem sonhar com a possibilidade de baratas perto da minha boca."
+                "type": "PARAGRAPH",
+                "value": "Eu odeio baratas. Inclusive, sou paranoico com elas - fico sentindo a presença delas onde não tem, vejo a sombra delas com o canto do olho e quando vejo não tem nada. Me alivia não sentir o cheiro delas; acho que não poderia nunca mais dormir tranquilamente. Dormir tranquilo que é outro perrengue; tenho colocado vêneno e naftalina espalhados por aí. Escovar os dentes três ou quatro vezes virou regra, não quero nem sonhar com a possibilidade de baratas perto da minha boca."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Não foi um começo muito bom aqui em Belo Horizonte; como diz o JB, nem sempre a gente merece o melhor, mas eu sou esperançoso e sei que alguma coisa boa vai rolar ~no caso já rolou, mas isso é assunto pra outro texto."
+                "type": "PARAGRAPH",
+                "value": "Não foi um começo muito bom aqui em Belo Horizonte; como diz o JB, nem sempre a gente merece o melhor, mas eu sou esperançoso e sei que alguma coisa boa vai rolar ~no caso já rolou, mas isso é assunto pra outro texto."
             },
             {
-            "type": "PARAGRAPH",
-            "value": "Enfim, quem é de energia e puder mandar energia negativa para as baratas agradeço."
+                "type": "PARAGRAPH",
+                "value": "Enfim, quem é de energia e puder mandar energia negativa para as baratas agradeço."
             }
         ]
     },
@@ -2155,7 +2151,7 @@
         "date": "Maio, 2025",
         "content": [
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "Tenho coisas a dizer sobre Ouro Preto e coisas a contar do que senti quando estive lá (especialmente sobre meu encontro com jesus estátua morto que achei que estava vivo), mas são coisas pro futuro. Por enquanto, só as fotos. <i>Tchau!</i>"
             },
             {
@@ -2319,31 +2315,31 @@
         "date": "Junho/Julho, 2025",
         "content": [
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "Terra de Caymmi e João Gilberto; de Caetano, Jorge, Gil e de Marias, seja ela Betânia ou da Graça, e de tantos outros que, mesmo não sendo baianos de nascença se tornaram no coração. Estrelas do céu brasileiro que são o que são por serem filhos das ondas verdes do mar da Bahia (te amo Caymmi, meu guia de Salvador junto com Carybé)."
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "No recôncavo bahiano é onde o nada e o tudo acontecem o tempo todo, onde as coisas são o que são e se tornam outras sem deixarem de ser o que eram; na Bahia, Oxóssi ganha a alcunha de São Jorge e São Jorge a de Oxóssi, mas Oxóssi segue sendo Óxossi e São Jorge, continua como São Jorge."
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "O que era, para que continue sendo, muda, vira outra coisa, mas continua ela mesma e uma coisa nova; Na Bahia, dança é luta, ou será que luta é dança? Ou será que dança é só dança e não é luta? Não poderia ser. Na Bahia tudo é luta e resistência. Lá, a tristeza não se chora, se bole, se balança, se samba... Samba esse que não poderia ter nascido em nenhum outro lugar do mundo, somente num lugar mágico e único, onde morrer no mar é doce, que poderiam descobrir que sambar as nossas dores é melhor do que chorar."
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "Na Bahia de Todos os Santos, foi onde Yemanjá e o Nosso Senhor do Bonfim forjaram o que talvez tenha de mais brilhante e atraente e lindo do espírito brasileiro. "
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "Enfim, a “Bahia continua como um sonho lindo” sobre o qual escreverei mais! Por enquanto, Saravá!"
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "PS.: Terá parte dois."
             },
             {
-                "type":"PARAGRAPH",
+                "type": "PARAGRAPH",
                 "value": "PS. 2: Nesse jogo os ingressos de visitantes esgotaram antes de eu comprar e eu tive que ver meu São Paulo perder para o Bahia de Rogério Ceni no meio da torcida deles sem esboçar reação, tirando isso, baita torcida a torcida do Bahia!"
             },
             {
@@ -2586,19 +2582,19 @@
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/01_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/02_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/03_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/31_FujiS400.jpg",
@@ -2610,55 +2606,55 @@
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/05_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/06_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/07_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/08_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/09_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/10_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/11_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/12_Aerostill.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Aerostill 100"
+                        "film": "Aerostill 100"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/13_FujiS400.jpg",
                         "alt": "",
                         "camera": "Kodak Ektar H35N",
-                        "film":"Fujifilm 400"
+                        "film": "Fujifilm 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/14_FujiS400.jpg",
@@ -2777,145 +2773,438 @@
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/55_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/54_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/53_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/52_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/51_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/50_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/49_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/48_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/47_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/46_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/45_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/44_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/43_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/42_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/41_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/40_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/39_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/38_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/37_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/36_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/35_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/34_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/33_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
                     },
                     {
                         "src": "https://andardebaixo.blob.core.windows.net/brasilia/32_HP5.jpg",
                         "alt": "",
                         "camera": "Olympus Infinity Zoom 70",
-                        "film":"Ilford HP5 Plus 400"
+                        "film": "Ilford HP5 Plus 400"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "active": false,
+        "title": "São Jorge",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/sao-jorge/02_Portra400.jpg",
+        "abstract": "",
+        "location": "São Jorge, Brasil",
+        "date": "Agosto, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/01_HP5.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Ilford HP5 Plus 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/02_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/03_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/04_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/05_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/06_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/07_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/08_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/09_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/10_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/11_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/12_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/13_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/14_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/15_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/16_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/17_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/18_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/19_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/20_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/21_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/22_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/23_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/24_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/25_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/26_Portra400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Portra 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/27_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/28_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/29_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/30_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/31_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/32_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/33_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/34_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/35_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/36_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/37_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/38_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/39_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/40_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/41_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/42_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/43_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/44_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/45_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/sao-jorge/46_ultramax400.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
                     }
                 ]
             }
