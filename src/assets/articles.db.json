@@ -3209,5 +3209,625 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 23,
+        "active": false,
+        "title": "Belém",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/belem/07_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+        "abstract": "",
+        "location": "Belém/Brasil",
+        "date": "Setembro/2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/01_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/02_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/03_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/04_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/05_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/06_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/07_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Ultramax 400"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/08_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/09_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/10_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/11_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/12_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/13_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/14_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/15_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/16_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/17_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/18_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/19_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/20_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/21_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/22_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/23_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/24_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/belem/25_Kodak Vision 3 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Vision 3 250D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "active": true,
+        "title": "Ilha do Marajó/Soure",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/marajo/07_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+        "abstract": "",
+        "location": "Ilha do Marajó/Brasil",
+        "date": "Setembro/2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/01_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/02_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/03_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/04_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/05_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/06_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/07_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/08_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/09_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/10_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/11_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/12_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/13_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/14_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/15_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/16_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/17_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/18_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/19_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/20_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/marajo/21_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "active": true,
+        "title": "Santar\u00E9m",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/santarem/21_kodak%20vision%203%20500t_Olympus%20Infinity%20Zoom%2070.jpg",
+        "abstract": "",
+        "location": "Santar\u00E9m, Brasil",
+        "date": "Outubro, 2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/01_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/02_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/03_Kentemere 100_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kentemere 100"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/04_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/05_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/06_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/07_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/08_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/09_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/10_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/11_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/12_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/13_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/14_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/15_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/16_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/17_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/18_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/19_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/20_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/21_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/22_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/23_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/24_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/25_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/26_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/27_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/28_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/santarem/29_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "active": true,
+        "title": "De Santar\u00E9m a Manaus",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/amazonas/12_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+        "abstract": "",
+        "location": "Rio Amazonas/Brasil",
+        "date": "Outubro/2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/01_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/02_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/03_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/04_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/05_kodak vision 3 500t_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "kodak vision 3 500t"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/06_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/07_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/08_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/09_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/10_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/11_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/12_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/13_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/14_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/15_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/16_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/amazonas/17_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    }
+                ]
+            }
+        ]
     }
 ]
