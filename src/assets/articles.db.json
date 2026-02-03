@@ -3212,7 +3212,7 @@
     },
     {
         "id": 23,
-        "active": false,
+        "active": true,
         "title": "Belém",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/belem/07_Kodak Ultramax 400_Olympus Infinity Zoom 70.jpg",
@@ -3379,7 +3379,7 @@
     },
     {
         "id": 24,
-        "active": true,
+        "active": false,
         "title": "Ilha do Marajó/Soure",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/marajo/07_Kentemere 100_Olympus Infinity Zoom 70.jpg",
@@ -3522,7 +3522,7 @@
     },
     {
         "id": 25,
-        "active": true,
+        "active": false,
         "title": "Santar\u00E9m",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/santarem/21_kodak%20vision%203%20500t_Olympus%20Infinity%20Zoom%2070.jpg",
@@ -3713,7 +3713,7 @@
     },
     {
         "id": 26,
-        "active": true,
+        "active": false,
         "title": "De Santar\u00E9m a Manaus",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/amazonas/12_Kodak 250D_Olympus Infinity Zoom 70.jpg",
