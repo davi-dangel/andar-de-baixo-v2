@@ -3379,7 +3379,7 @@
     },
     {
         "id": 24,
-        "active": false,
+        "active": true,
         "title": "Ilha do Marajó/Soure",
         "showTitle": true,
         "imgPreview": "https://andardebaixo.blob.core.windows.net/marajo/07_Kentemere 100_Olympus Infinity Zoom 70.jpg",
