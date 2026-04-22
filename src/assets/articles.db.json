@@ -3829,5 +3829,238 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 27,
+        "active": true,
+        "title": "Manaus",
+        "showTitle": true,
+        "imgPreview": "https://andardebaixo.blob.core.windows.net/manaus/28_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+        "abstract": "",
+        "location": "Manaus/Brasil",
+        "date": "Novembro/2025",
+        "content": [
+            {
+                "type": "GALLERY",
+                "value": [
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/02_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/03_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/05_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/06_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/07_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/08_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/09_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/10_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/11_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/12_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/16_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/18_Kodak 250D_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak 250D"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/19_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/21_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/22_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/25_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/26_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/27_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/28_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/29_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/30_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/31_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/32_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/33_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/34_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/35_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/36_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/37_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/38_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/39_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/40_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/42_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/44_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/50_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/52_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    },
+                    {
+                        "src": "https://andardebaixo.blob.core.windows.net/manaus/53_Kodak Gold 200_Olympus Infinity Zoom 70.jpg",
+                        "alt": "",
+                        "camera": "Olympus Infinity Zoom 70",
+                        "film": "Kodak Gold 200"
+                    }
+                ]
+            }
+        ]
     }
 ]
