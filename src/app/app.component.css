@@ -2,3 +2,15 @@
 .img-border{
   border: 25px solid white;
 }
+
+.developer-tools {
+  max-width: 900px;
+  margin: .75rem auto;
+  padding: 0 1rem;
+  text-align: right;
+}
+
+.developer-tools a {
+  color: #555;
+  font-size: .85rem;
+}

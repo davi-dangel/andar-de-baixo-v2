@@ -1,0 +1,190 @@
+<main class="designer">
+  <header class="designer-header">
+    <div>
+      <p class="eyebrow">Developer workspace</p>
+      <h1>Post designer</h1>
+      <p>Shape your story, arrange its blocks, and export ready-to-paste JSON.</p>
+    </div>
+    <div class="live-note"><span class="live-dot"></span>JSON updates as you edit</div>
+  </header>
+
+  <div class="post-controls">
+    @if (selectedArticle; as article) {
+      <label class="post-picker">
+        Select a post
+        <select [value]="article.id" (change)="selectArticle($event)">
+          @for (option of articles; track option.id) {
+            <option [value]="option.id">{{ option.id }} — {{ option.title || 'Untitled post' }}</option>
+          }
+        </select>
+      </label>
+    }
+    <button type="button" class="create-button" (click)="createPost()">+ Create new post</button>
+  </div>
+
+  @if (selectedArticle; as article) {
+    <div class="post-title-bar">
+        <span class="post-id">#{{ article.id }}</span>
+        <label class="title-input">
+          <span>Post title</span>
+          <input type="text" [value]="article.title" (input)="updateTitle($event)" placeholder="Give this post a title">
+        </label>
+    </div>
+
+    <div class="workspace">
+        <section class="editor" aria-label="Post content blocks">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Your story</p>
+              <h2>Content blocks <span class="count">{{ article.content.length }}</span></h2>
+            </div>
+            <p class="hint">Drag to reorder</p>
+          </div>
+
+          <div class="add-content">
+            <label>
+              Add a block
+              <select [value]="contentType" (change)="selectContentType($event)">
+                @for (option of contentTypes; track option.type) {
+                  <option [value]="option.type">{{ option.label }}</option>
+                }
+              </select>
+            </label>
+            <button type="button" class="add-button" (click)="addContent()">Add content</button>
+          </div>
+
+          <div class="block-list" cdkDropList (cdkDropListDropped)="drop($event)">
+            @for (block of article.content; track $index; let index = $index) {
+              <article class="block" cdkDrag>
+                <div class="block-heading">
+                  <span class="block-number">{{ index + 1 }}</span>
+                  <span class="type-badge">{{ block.type }}</span>
+                  <span cdkDragHandle class="drag-handle" aria-label="Drag to reorder">Drag</span>
+                </div>
+                <p class="preview">{{ blockPreview(block) || 'Empty block - add content below.' }}</p>
+                <details class="edit-panel" [open]="index === expandedBlockIndex">
+                  <summary>Edit block</summary>
+                  <div class="content-editor">
+                    @switch (block.type) {
+                      @case ('PARAGRAPH') {
+                        <label>
+                          Paragraph text
+                          <textarea [value]="block.value" (input)="updateParagraph(block, $event)"></textarea>
+                        </label>
+                      }
+                      @case ('POEM') {
+                        <label>
+                          Poem lines <span>One line per verse.</span>
+                          <textarea [value]="block.value.join('\n')" (input)="updatePoem(block, $event)"></textarea>
+                        </label>
+                      }
+                      @case ('IMAGE') {
+                        <label>
+                          Image URL
+                          <input type="text" [value]="block.value" (input)="updateImage(block, 'value', $event)">
+                        </label>
+                        <label>
+                          Alternative text
+                          <input type="text" [value]="block.alt" (input)="updateImage(block, 'alt', $event)">
+                        </label>
+                      }
+                      @case ('IFRAME') {
+                        <label>
+                          Alternative text
+                          <input type="text" [value]="block.alt || ''" (input)="updateIframeAlt(block, $event)">
+                        </label>
+                        @if (block.value; as iframe) {
+                          <label>
+                            Embed URL
+                            <input type="text" [value]="iframe.src" (input)="updateIframe(block, 'src', $event)">
+                          </label>
+                          <div class="field-row">
+                            <label>
+                              Width
+                              <input type="text" [value]="iframe.width" (input)="updateIframe(block, 'width', $event)">
+                            </label>
+                            <label>
+                              Height
+                              <input type="text" [value]="iframe.height" (input)="updateIframe(block, 'height', $event)">
+                            </label>
+                          </div>
+                        } @else {
+                          <button type="button" (click)="initializeIframe(block)">Set up embed</button>
+                        }
+                      }
+                      @case ('GALLERY') {
+                        @if (block.value; as images) {
+                          @for (image of images; track $index; let imageIndex = $index) {
+                            <fieldset class="gallery-image">
+                              <legend>Gallery image {{ imageIndex + 1 }}</legend>
+                              <label>
+                                Image URL
+                                <input type="text" [value]="image.src" (input)="updateGalleryImage(image, 'src', $event)">
+                              </label>
+                              <label>
+                                Thumbnail URL
+                                <input type="text" [value]="image.thumbnailSrc || ''" (input)="updateGalleryImage(image, 'thumbnailSrc', $event)">
+                              </label>
+                              <label>
+                                Alternative text
+                                <input type="text" [value]="image.alt" (input)="updateGalleryImage(image, 'alt', $event)">
+                              </label>
+                              <div class="field-row">
+                                <label>
+                                  Camera
+                                  <input type="text" [value]="image.camera || ''" (input)="updateGalleryImage(image, 'camera', $event)">
+                                </label>
+                                <label>
+                                  Film
+                                  <input type="text" [value]="image.film || ''" (input)="updateGalleryImage(image, 'film', $event)">
+                                </label>
+                              </div>
+                              <label class="favorite-field">
+                                <input type="checkbox" [checked]="image.favorite ?? false" (change)="updateGalleryFavorite(image, $event)">
+                                Favorite
+                              </label>
+                              <button type="button" class="text-button" (click)="removeGalleryImage(block, imageIndex)">Remove image</button>
+                            </fieldset>
+                          }
+                          <button type="button" class="secondary-button" (click)="addGalleryImage(block)">+ Add gallery image</button>
+                        } @else {
+                          <button type="button" (click)="initializeGallery(block)">Set up gallery</button>
+                        }
+                      }
+                    }
+                  </div>
+                </details>
+                <div class="block-actions">
+                  <button type="button" (click)="moveBlock(index, -1)" [disabled]="index === 0" [attr.aria-label]="'Move block ' + (index + 1) + ' up'">Move up</button>
+                  <button type="button" (click)="moveBlock(index, 1)" [disabled]="index === article.content.length - 1" [attr.aria-label]="'Move block ' + (index + 1) + ' down'">Move down</button>
+                </div>
+              </article>
+            } @empty {
+              <div class="empty-state">
+                <strong>Your post is ready for its first block.</strong>
+                <span>Choose a content type above to get started.</span>
+              </div>
+            }
+          </div>
+        </section>
+
+        <section class="output">
+          <div class="output-heading">
+            <div>
+              <p class="eyebrow">Export</p>
+              <h2>Post JSON</h2>
+            </div>
+            <button type="button" class="copy-button" (click)="copyJson()">Copy JSON</button>
+          </div>
+          <p class="output-hint">Paste this object into <code>articles.db.json</code>.</p>
+          <textarea aria-label="Updated post JSON" readonly [value]="jsonOutput"></textarea>
+          <p class="status" role="status" aria-live="polite">{{ copyMessage }}</p>
+        </section>
+    </div>
+  } @else {
+    <div class="empty-state">
+        <strong>No posts to design yet.</strong>
+        <span>Create a post to start building its content.</span>
+    </div>
+  }
+</main>
