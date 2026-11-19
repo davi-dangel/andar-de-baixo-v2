@@ -1,7 +1,16 @@
-<div class="content">
-  @for(headline of headlines; track headline.id){
-    @if (headline.active){
-      <app-headline-preview  (click)="openFullContent(headline.id)" [headline]="headline"></app-headline-preview>
+<main class="feed">
+  <header class="feed-heading">
+    <h2>Arquivo de edições</h2>
+  </header>
+
+  <section class="edition-grid" aria-label="Edições do jornal">
+    @for (headline of headlines; track headline.id) {
+      @if (headline.active) {
+        <app-headline-preview
+          (click)="openFullContent(headline.id)"
+          [headline]="headline">
+        </app-headline-preview>
+      }
     }
-  }
-</div>
+  </section>
+</main>

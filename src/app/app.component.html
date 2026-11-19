@@ -1,2 +1,7 @@
 <app-header></app-header>
+@if (isDeveloperMode) {
+  <nav class="developer-tools">
+    <a routerLink="/developer/post-designer">Post designer</a>
+  </nav>
+}
 <router-outlet></router-outlet>

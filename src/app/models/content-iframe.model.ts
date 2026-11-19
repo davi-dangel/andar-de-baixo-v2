@@ -1,12 +1,12 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentIframe implements Content{
-    type: string;
+    type: 'IFRAME';
     value: Iframe | null;
     alt: string;
 
     constructor(args: Partial<ContentIframe> = {}){
-        this.type = args.type ?? 'IMAGE';
+        this.type = args.type ?? 'IFRAME';
         this.value = args.value ?? null;
         this.alt = args.alt ?? '';
     }

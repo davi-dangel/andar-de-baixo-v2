@@ -1,7 +1,7 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentPoem implements Content{
-    type: string;
+    type: 'POEM';
     value: string[];
 
     constructor(args: Partial<ContentPoem> = {}){

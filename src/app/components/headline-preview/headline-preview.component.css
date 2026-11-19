@@ -1,147 +1,90 @@
-.column{
-    font-size: 14px;
-    line-height: 20px;
-    width: 25%;
-    display: inline-block;
-    padding: 0 1% 0 1%;
-    vertical-align: top;
-    margin-bottom: 50px;
-    transition: all .7s;
+.edition-card {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 18px;
+    border: 1px solid var(--ink-color);
+    background: var(--paper-color);
+    color: var(--ink-color);
+    text-align: left;
     cursor: pointer;
+    transition: box-shadow 180ms ease, transform 180ms ease;
 }
 
-.column .headline{
-    text-align: center;
-    line-height: normal;
-    font-family: 'Playfair Display', serif;
+.edition-card:hover,
+.edition-card:focus-visible {
+    transform: translateY(-3px);
+    box-shadow: 4px 5px 0 rgb(0 0 0 / 14%);
+}
+
+.edition-card:focus-visible {
+    outline: 2px solid var(--ink-color);
+    outline-offset: 3px;
+}
+
+.edition-masthead {
     display: block;
-    margin: 0 auto;
-}
-
-.column .headline.hl1{
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--ink-color);
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
     font-weight: 700;
-    font-size: 30px;
+    text-align: center;
     text-transform: uppercase;
-    padding: 10px 0 10px 0;
-
 }
 
-.column .headline.hl2{
-    font-weight: 400;
-    font-style: italic;
-    font-size: 24px;
-    box-sizing: border-box;
-    padding: 10px 0 10px 0;
+.edition-folio,
+.edition-details {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 7px 0;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
 }
 
-.column .headline.hl2:before{
-    border-top: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 7px;
+.edition-folio {
+    border-bottom: 1px solid var(--ink-color);
+}
+
+.edition-copy {
     display: block;
-    margin: 0 auto;
-}
-
-.column .headline.hl2:after{
-    border-bottom: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 13px;
-    display: block;
-    margin: 0 auto;
-
-}
-
-.column .headline.hl3{
-    font-weight: 400;
-    font-style: italic;
-    font-size: 36px;
-    box-sizing: border-box;
-    padding: 10px 0 10px 0;
-}
-.column .headline.hl4{
-    font-weight: 700;
-    font-size: 12px;
-    box-sizing: border-box;
-    padding: 10px 0 10px 0;
-}
-.column .headline.hl4:before{
-    border-top: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 7px;
-    display: block;
-    margin: 0 auto;
-}
-.column .headline.hl4:after{
-    border-bottom: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 10px;
-    display: block;
-    margin: 0 auto;
-
-}
-
-
-.column .citation{
-    font-family: 'Playfair Display', serif;
-    font-size: 36px;
-    line-height: 44px;
-    /*font-style: italic;*/
+    padding: 16px 0 12px;
     text-align: center;
-    font-weight: 400;
+}
+
+.edition-title {
     display: block;
-    margin: 40px 0 40px 0;
-    font-feature-settings: "liga", "dlig";
-
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(24px, 3vw, 34px);
+    font-style: italic;
+    line-height: 1.15;
 }
-.column .citation:before{
-    border-top: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 16px;
+
+.edition-subtitle,
+.edition-abstract {
     display: block;
-    margin: 0 auto;
+    margin-top: 10px;
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    line-height: 1.5;
 }
-.column .citation:after{
-    border-bottom: 1px solid #2f2f2f;
-    content: '';
-    width: 100px;
-    height: 16px;
+
+.edition-abstract {
+    text-align: left;
+}
+
+.edition-details {
+    justify-content: center;
+    flex-wrap: wrap;
+    border-top: 1px solid var(--ink-color);
+}
+
+.edition-image {
     display: block;
-    margin: 0 auto;
-}
-
-
-.column .figure {
-    margin: 0 0 20px;
-}
-.column .figcaption{
-  font-style: italic;
-  font-size: 12px;
-}
-.media {
-  width: 100%;
-}
-
-/*MEDIAQUERIES*/
-@media only all and (max-width: 1200px) {
-    .column{
-        width: 31%;
-    }
-
-}
-@media only all and (max-width: 900px) {
-    .column{
-        width: 47%;
-    }
-
-}
-@media only all and (max-width: 600px) {
-    .column{
-        width: 100%;
-        border-bottom: 1px solid #2f2f2f;
-    }
+    width: 100%;
+    height: auto;
+    object-fit: contain;
 }

@@ -1,7 +1,7 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentGallery implements Content{
-    type: string;
+    type: 'GALLERY';
     value: Image[] | null;
 
     constructor(args: Partial<ContentGallery> = {}){
@@ -12,6 +12,7 @@ export class ContentGallery implements Content{
 
 export class Image{
     src: string;
+    thumbnailSrc?: string | null;
     alt: string;
     camera?: string | null;
     film?: string | null;
@@ -19,6 +20,7 @@ export class Image{
 
     constructor(args: Partial<Image> = {}) {
         this.src = args.src ?? '';
+        this.thumbnailSrc = args.thumbnailSrc ?? null;
         this.alt = args.alt ?? '';
         this.camera = args.camera ?? null;
         this.film = args.film ?? null;
