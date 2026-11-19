@@ -1,11 +1,18 @@
-<div *ngIf="images">
-    <div *ngFor="let image of images; let index = index" key="index" class="img-container">
-        <img [src]="image.thumbnailImageSrc" [alt]="image.alt" style="cursor: pointer; width: 100%; margin-bottom: 15px;" (click)="imageClick(index)" />
+<div *ngIf="images" class="gallery-grid">
+    <div *ngFor="let image of displayedImages; let index = index" class="img-container">
+        <img [src]="image.thumbnailImageSrc" [alt]="image.alt" class="gallery-image" loading="lazy" decoding="async" (click)="imageClick(index)" />
         <span>{{image.camera}}</span><br>
         <span>{{image.film}}</span><br>
         <span *ngIf="image.favorite" class="favorite-icon">★</span>
     </div>
 </div>
+<button
+    *ngIf="displayedImages.length < images.length"
+    class="load-more"
+    type="button"
+    (click)="loadMoreImages()">
+    Carregar mais fotos
+</button>
 <p-galleria 
     [value]="images" 
     [(visible)]="displayCustom" 

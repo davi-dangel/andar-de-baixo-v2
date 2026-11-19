@@ -2,6 +2,16 @@ import { Component, Input, OnInit } from '@angular/core';
 import { GalleriaModule } from 'primeng/galleria';
 import { ContentGallery } from '../../../../models/content-gallery.model';
 
+interface GalleryItem {
+  itemImageSrc: string;
+  thumbnailImageSrc: string;
+  alt: string;
+  title: string;
+  camera: string | null;
+  film: string | null;
+  favorite: boolean | null;
+}
+
 @Component({
   selector: 'app-gallery',
   standalone: true,
@@ -14,7 +24,9 @@ export class GalleryComponent implements OnInit{
 
   displayCustom: boolean = false;
 
-  images: any[] = []
+  private readonly imageBatchSize = 48;
+  images: GalleryItem[] = [];
+  displayedImages: GalleryItem[] = [];
 
   activeIndex: number = 0;
   responsiveOptions: any[] = [
@@ -34,10 +46,10 @@ export class GalleryComponent implements OnInit{
 
 ngOnInit() {
     if (this.value?.value) {
-      this.images = this.value.value.map((image: any) => {
+      this.images = this.value.value.map(image => {
         return {
           itemImageSrc: image.src,
-          thumbnailImageSrc: image.src,
+          thumbnailImageSrc: image.thumbnailSrc || image.src,
           alt: image.alt,
           title: image.alt,
           camera: image.camera || null,
@@ -45,11 +57,20 @@ ngOnInit() {
           favorite: image.favorite || null
         };
       });
+      this.displayedImages = this.images.slice(0, this.imageBatchSize);
     }
   }
 
+loadMoreImages() {
+  const nextBatch = this.images.slice(
+    this.displayedImages.length,
+    this.displayedImages.length + this.imageBatchSize
+  );
+  this.displayedImages = [...this.displayedImages, ...nextBatch];
+}
+
 imageClick(index: number) {
-  this.activeIndex = index;
+  this.activeIndex = this.images.indexOf(this.displayedImages[index]);
   this.displayCustom = !this.displayCustom;
 }
 }

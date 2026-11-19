@@ -1,11 +1,27 @@
 /* @import url('../../../../app.component.css'); */
 
+.gallery-grid {
+    column-count: 3;
+    column-gap: 24px;
+}
+
 .img-container {
+    display: inline-block;
+    width: 100%;
+    break-inside: avoid;
     background-color: white;
     margin-bottom: 20px;
     padding: 10px 10px 20px 10px;
     font-style: italic;
     text-align: right;
+}
+
+.gallery-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .img-container span{
@@ -15,4 +31,31 @@
 .favorite-icon {
     color: var(--ink-color);
     font-size: 1.2em;
+}
+
+.load-more {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 10px 18px;
+    border: 1px solid var(--ink-color);
+    background: white;
+    color: var(--ink-color);
+    font: inherit;
+    cursor: pointer;
+}
+
+.load-more:hover {
+    background: var(--paper-color);
+}
+
+@media (max-width: 740px) {
+    .gallery-grid {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 420px) {
+    .gallery-grid {
+        column-count: 1;
+    }
 }
