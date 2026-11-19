@@ -1,7 +1,7 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentImage implements Content{
-    type: string;
+    type: 'IMAGE';
     value: string;
     alt: string;
 

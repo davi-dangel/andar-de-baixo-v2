@@ -6,6 +6,7 @@ import { PoemComponent } from './components/poem/poem.component';
 import { ImageComponent } from './components/image/image.component';
 import { IframeComponent } from './components/iframe/iframe.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
+import { HeadLine } from '../../models/headline.model';
 
 @Component({
   selector: 'app-article',
@@ -15,7 +16,7 @@ import { GalleryComponent } from './components/gallery/gallery.component';
   styleUrl: './article.component.css'
 })
 export class ArticleComponent implements OnInit{
-  public article: any
+  public article: HeadLine | undefined;
 
   constructor(private route: ActivatedRoute, private dataService: DataService) { }
 

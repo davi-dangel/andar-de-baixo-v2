@@ -2,12 +2,14 @@
 /*              Vars                 */
 /*-----------------------------------*/
 :root {
-    --background-color: #dbcec1;
+    --background-color: #f2f2f2;
+    --paper-color: #fff;
+    --ink-color: #111;
 }
 
 body {
   background-color: var(--background-color);
-  color: #000;
+  color: var(--ink-color);
 }
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

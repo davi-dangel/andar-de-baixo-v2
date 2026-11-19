@@ -13,6 +13,6 @@
 }
 
 .favorite-icon {
-    color: gold;
+    color: var(--ink-color);
     font-size: 1.2em;
 }

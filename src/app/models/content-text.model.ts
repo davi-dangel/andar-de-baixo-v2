@@ -1,7 +1,7 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentText implements Content{
-    type: string;
+    type: 'PARAGRAPH';
     value: string;
 
     constructor(args: Partial<ContentText> = {}){

@@ -1,7 +1,7 @@
 import { Content } from "./interfaces/content.interface";
 
 export class ContentGallery implements Content{
-    type: string;
+    type: 'GALLERY';
     value: Image[] | null;
 
     constructor(args: Partial<ContentGallery> = {}){

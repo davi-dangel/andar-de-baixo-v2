@@ -1,22 +1,39 @@
-<div class="column">
-    <div class="head">
-        <span class="headline hl3">{{headline?.title}}</span>
-        @if(headline?.subtitle){
-            <p>
-                <span class="headline hl4" [innerHTML]="headline?.subtitle"></span>
-            </p>
+<button
+    class="edition-card"
+    type="button"
+    [attr.aria-label]="'Abrir edição n.º ' + headline?.id + ': ' + headline?.title">
+    <span class="edition-masthead">Andar de Baixo</span>
+    <span class="edition-folio">
+        <span>Primeira página</span>
+        <span>Edição n.º {{headline?.id}}</span>
+    </span>
+
+    <span class="edition-copy">
+        <span class="edition-title">{{headline?.title}}</span>
+        @if (headline?.subtitle) {
+            <span class="edition-subtitle" [innerHTML]="headline?.subtitle"></span>
         }
-    </div>
+        @if (headline?.abstract) {
+            <span class="edition-abstract">{{headline?.abstract}}</span>
+        }
+    </span>
 
-    @if(headline?.abstract){
-        <p>{{headline?.abstract}}</p>
+    @if (headline?.location || headline?.date) {
+        <span class="edition-details">
+            @if (headline?.location) {
+                <span>{{headline?.location}}</span>
+            }
+            @if (headline?.date) {
+                <span>{{headline?.date}}</span>
+            }
+        </span>
     }
 
-    @if(headline?.imgPreview){
-        <figure class="figure">
-            <img class="media" src="{{headline?.imgPreview}}" alt="Headline Image" loading="lazy">
-            <!-- <figcaption class="figcaption">caption</figcaption> -->
-             <!--TODO: ADD CAPTION-->
-        </figure>
+    @if (headline?.imgPreview) {
+        <img
+            class="edition-image"
+            [src]="headline?.imgPreview"
+            [alt]="headline?.title ?? ''"
+            loading="lazy">
     }
-</div>
+</button>

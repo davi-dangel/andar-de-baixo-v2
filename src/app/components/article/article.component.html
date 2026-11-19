@@ -1,35 +1,51 @@
-<div class="article">
+@if (article; as edition) {
+    <main class="article">
+        <header class="edition-cover">
+            <div class="edition-line">
+                <span>Primeira página</span>
+                <span>Edição n.º {{edition.id}}</span>
+            </div>
 
-    @if(this.article?.showTitle){
-        <span class="headline hl3">{{this.article?.title}}</span>
-    }
+            <h1 class="edition-title">{{edition.title}}</h1>
 
-    @for (item of this.article.content; track $index) {
+            @if (edition.abstract) {
+                <p class="edition-abstract">{{edition.abstract}}</p>
+            }
 
-        @if (item.type === 'PARAGRAPH'){
-            <app-paragraph [value]="item.value"></app-paragraph>
-        }
+            @if (edition.location || edition.date) {
+                <div class="edition-details">
+                    @if (edition.location) {
+                        <span>{{edition.location}}</span>
+                    }
+                    @if (edition.date) {
+                        <span>{{edition.date}}</span>
+                    }
+                </div>
+            }
+        </header>
 
-        @if (item.type === 'POEM'){
-            <app-poem [value]="item.value"></app-poem>
-        }
+        <section class="article-content">
+            @for (item of edition.content; track $index) {
+                @if (item.type === 'PARAGRAPH') {
+                    <app-paragraph [value]="item.value"></app-paragraph>
+                }
 
-        @if (item.type === 'IMAGE'){
-            <app-image [value]="item"></app-image>
-        }
-        
-        @if (item.type === 'IFRAME'){
-            <app-iframe [iframe]="item"></app-iframe>
-        }
+                @if (item.type === 'POEM') {
+                    <app-poem [value]="item.value"></app-poem>
+                }
 
-        @if (item.type === 'GALLERY'){
-            <app-gallery [value]="item"></app-gallery>
-        }
-    }
-    
-    <div class="location-container" style="display: block;">
-        <span>{{this.article.location}}</span>
-        <br>
-        <span>{{this.article.date}}</span>
-    </div>
-</div>
+                @if (item.type === 'IMAGE') {
+                    <app-image [value]="item"></app-image>
+                }
+
+                @if (item.type === 'IFRAME') {
+                    <app-iframe [iframe]="item"></app-iframe>
+                }
+
+                @if (item.type === 'GALLERY') {
+                    <app-gallery [value]="item"></app-gallery>
+                }
+            }
+        </section>
+    </main>
+}
