@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DragDropModule, CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 import { HeadLine } from '../../models/headline.model';
+import { ArticleContent, Page } from '../../models/page.model';
 import { ContentGallery, Image } from '../../models/content-gallery.model';
 import { ContentIframe, Iframe } from '../../models/content-iframe.model';
 import { ContentImage } from '../../models/content-image.model';
@@ -19,6 +20,7 @@ type ContentType = 'PARAGRAPH' | 'POEM' | 'IMAGE' | 'IFRAME' | 'GALLERY';
 export class PostDesignerComponent implements OnInit {
   public articles: HeadLine[] = [];
   public selectedArticle: HeadLine | null = null;
+  public selectedPage: Page | null = null;
   public copyMessage = '';
   public expandedBlockIndex = 0;
   public readonly contentTypes: { type: ContentType; label: string }[] = [
@@ -35,14 +37,16 @@ export class PostDesignerComponent implements OnInit {
   ngOnInit(): void {
     this.articles = this.dataService.GetAll();
     this.selectedArticle = this.articles[0] ?? null;
-    this.expandedBlockIndex = this.selectedArticle?.content.length ? 0 : -1;
+    this.selectedPage = this.selectedArticle?.pages[0] ?? null;
+    this.expandedBlockIndex = this.selectedPage?.content.length ? 0 : -1;
   }
 
   createPost(): void {
     const nextId = Math.max(0, ...this.articles.map(article => article.id)) + 1;
-    const article = new HeadLine({ id: nextId, title: '', content: [] });
+    const article = new HeadLine({ id: nextId, title: '', pages: [{ number: 1, content: [] }] });
     this.articles = [...this.articles, article];
     this.selectedArticle = article;
+    this.selectedPage = article.pages[0];
     this.expandedBlockIndex = -1;
     this.copyMessage = '';
   }
@@ -50,7 +54,28 @@ export class PostDesignerComponent implements OnInit {
   selectArticle(event: Event): void {
     const id = Number((event.target as HTMLSelectElement).value);
     this.selectedArticle = this.articles.find(article => article.id === id) ?? null;
-    this.expandedBlockIndex = this.selectedArticle?.content.length ? 0 : -1;
+    this.selectedPage = this.selectedArticle?.pages[0] ?? null;
+    this.expandedBlockIndex = this.selectedPage?.content.length ? 0 : -1;
+    this.copyMessage = '';
+  }
+
+  selectPage(event: Event): void {
+    const number = Number((event.target as HTMLSelectElement).value);
+    this.selectedPage = this.selectedArticle?.pages.find(page => page.number === number) ?? null;
+    this.expandedBlockIndex = this.selectedPage?.content.length ? 0 : -1;
+    this.copyMessage = '';
+  }
+
+  addPage(): void {
+    if (!this.selectedArticle) {
+      return;
+    }
+
+    const number = Math.max(0, ...this.selectedArticle.pages.map(page => page.number)) + 1;
+    const page: Page = { number, content: [] };
+    this.selectedArticle.pages.push(page);
+    this.selectedPage = page;
+    this.expandedBlockIndex = -1;
     this.copyMessage = '';
   }
 
@@ -70,12 +95,12 @@ export class PostDesignerComponent implements OnInit {
   }
 
   addContent(): void {
-    if (!this.selectedArticle) {
+    if (!this.selectedPage) {
       return;
     }
 
-    this.selectedArticle.content.push(this.createContentBlock(this.contentType));
-    this.expandedBlockIndex = this.selectedArticle.content.length - 1;
+    this.selectedPage.content.push(this.createContentBlock(this.contentType));
+    this.expandedBlockIndex = this.selectedPage.content.length - 1;
     this.copyMessage = '';
   }
 
@@ -141,7 +166,7 @@ export class PostDesignerComponent implements OnInit {
     this.copyMessage = '';
   }
 
-  private createContentBlock(type: ContentType): HeadLine['content'][number] {
+  private createContentBlock(type: ContentType): ArticleContent {
     switch (type) {
       case 'PARAGRAPH':
         return { type, value: '' };
@@ -156,32 +181,32 @@ export class PostDesignerComponent implements OnInit {
     }
   }
 
-  drop(event: CdkDragDrop<HeadLine['content']>): void {
-    if (!this.selectedArticle) {
+  drop(event: CdkDragDrop<ArticleContent[]>): void {
+    if (!this.selectedPage) {
       return;
     }
 
-    moveItemInArray(this.selectedArticle.content, event.previousIndex, event.currentIndex);
+    moveItemInArray(this.selectedPage.content, event.previousIndex, event.currentIndex);
     this.expandedBlockIndex = -1;
     this.copyMessage = '';
   }
 
   moveBlock(index: number, offset: number): void {
-    if (!this.selectedArticle) {
+    if (!this.selectedPage) {
       return;
     }
 
     const destination = index + offset;
-    if (destination < 0 || destination >= this.selectedArticle.content.length) {
+    if (destination < 0 || destination >= this.selectedPage.content.length) {
       return;
     }
 
-    moveItemInArray(this.selectedArticle.content, index, destination);
+    moveItemInArray(this.selectedPage.content, index, destination);
     this.expandedBlockIndex = -1;
     this.copyMessage = '';
   }
 
-  blockPreview(block: HeadLine['content'][number]): string {
+  blockPreview(block: ArticleContent): string {
     return typeof block.value === 'string' ? block.value : JSON.stringify(block.value) ?? '';
   }
 

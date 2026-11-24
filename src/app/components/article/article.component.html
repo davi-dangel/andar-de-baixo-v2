@@ -1,10 +1,16 @@
 @if (article; as edition) {
     <main class="article">
         <header class="edition-cover">
-            <div class="edition-line">
-                <span>Primeira página</span>
-                <span>Edição n.º {{edition.id}}</span>
-            </div>
+            <nav class="page-navigation" aria-label="Navegação entre páginas">
+                @if (currentPageIndex > 0) {
+                    <button type="button" (click)="previousPage()">Voltar</button>
+                }
+                <span class="edition-number">Edição n.º {{edition.id}}</span>
+                @if (currentPageIndex < edition.pages.length - 1) {
+                    <button type="button" (click)="nextPage()">Próxima</button>
+                }
+            </nav>
+            <p class="page-counter" aria-live="polite">Página {{currentPage?.number ?? 0}} de {{edition.pages.length}}</p>
 
             <h1 class="edition-title">{{edition.title}}</h1>
 
@@ -25,7 +31,8 @@
         </header>
 
         <section class="article-content">
-            @for (item of edition.content; track $index) {
+            @if (currentPage; as page) {
+              @for (item of page.content; track $index) {
                 @if (item.type === 'PARAGRAPH') {
                     <app-paragraph [value]="item.value"></app-paragraph>
                 }
@@ -45,7 +52,19 @@
                 @if (item.type === 'GALLERY') {
                     <app-gallery [value]="item"></app-gallery>
                 }
+              }
             }
         </section>
+
+        <nav class="page-navigation page-navigation-bottom" aria-label="Navegação entre páginas">
+            @if (currentPageIndex > 0) {
+                <button type="button" (click)="previousPage()">Voltar</button>
+            }
+            <span class="edition-number">Edição n.º {{edition.id}}</span>
+            @if (currentPageIndex < edition.pages.length - 1) {
+                <button type="button" (click)="nextPage()">Próxima</button>
+            }
+        </nav>
+        <p class="page-counter" aria-live="polite">Página {{currentPage?.number ?? 0}} de {{edition.pages.length}}</p>
     </main>
 }

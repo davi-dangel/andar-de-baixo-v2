@@ -14,6 +14,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Article pages
+
+Each article in `src/assets/articles.db.json` has a `pages` array. Each page has a unique `number` and a `content` array of blocks. Pages and their blocks are displayed in array order. The post designer can add pages and edit their blocks.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
