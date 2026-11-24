@@ -31,12 +31,27 @@
         </label>
     </div>
 
+    <div class="post-controls">
+      @if (selectedPage; as page) {
+        <label class="post-picker">
+          Select a page
+          <select aria-label="Select a page" [value]="page.number" (change)="selectPage($event)">
+            @for (option of article.pages; track option.number) {
+              <option [value]="option.number">Page {{ option.number }}</option>
+            }
+          </select>
+        </label>
+      }
+      <button type="button" class="create-button" (click)="addPage()">+ Add page</button>
+    </div>
+
+    @if (selectedPage; as page) {
     <div class="workspace">
         <section class="editor" aria-label="Post content blocks">
           <div class="section-heading">
             <div>
               <p class="eyebrow">Your story</p>
-              <h2>Content blocks <span class="count">{{ article.content.length }}</span></h2>
+              <h2>Content blocks <span class="count">{{ page.content.length }}</span></h2>
             </div>
             <p class="hint">Drag to reorder</p>
           </div>
@@ -54,7 +69,7 @@
           </div>
 
           <div class="block-list" cdkDropList (cdkDropListDropped)="drop($event)">
-            @for (block of article.content; track $index; let index = $index) {
+            @for (block of page.content; track $index; let index = $index) {
               <article class="block" cdkDrag>
                 <div class="block-heading">
                   <span class="block-number">{{ index + 1 }}</span>
@@ -156,7 +171,7 @@
                 </details>
                 <div class="block-actions">
                   <button type="button" (click)="moveBlock(index, -1)" [disabled]="index === 0" [attr.aria-label]="'Move block ' + (index + 1) + ' up'">Move up</button>
-                  <button type="button" (click)="moveBlock(index, 1)" [disabled]="index === article.content.length - 1" [attr.aria-label]="'Move block ' + (index + 1) + ' down'">Move down</button>
+                  <button type="button" (click)="moveBlock(index, 1)" [disabled]="index === page.content.length - 1" [attr.aria-label]="'Move block ' + (index + 1) + ' down'">Move down</button>
                 </div>
               </article>
             } @empty {
@@ -181,6 +196,7 @@
           <p class="status" role="status" aria-live="polite">{{ copyMessage }}</p>
         </section>
     </div>
+    }
   } @else {
     <div class="empty-state">
         <strong>No posts to design yet.</strong>

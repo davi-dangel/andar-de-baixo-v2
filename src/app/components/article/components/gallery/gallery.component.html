@@ -1,6 +1,16 @@
 <div *ngIf="images" class="gallery-grid">
     <div *ngFor="let image of displayedImages; let index = index" class="img-container">
-        <img [src]="image.thumbnailImageSrc" [alt]="image.alt" class="gallery-image" loading="lazy" decoding="async" (click)="imageClick(index)" />
+        <img
+            [src]="image.thumbnailImageSrc"
+            [attr.srcset]="image.thumbnailSrcset"
+            sizes="auto, (max-width: 420px) 94vw, (max-width: 740px) 47vw, (max-width: 1333px) 32vw, 360px"
+            [attr.width]="image.thumbnailWidth"
+            [attr.height]="image.thumbnailHeight"
+            [alt]="image.alt"
+            class="gallery-image"
+            loading="lazy"
+            decoding="async"
+            (click)="imageClick(index)" />
         <span>{{image.camera}}</span><br>
         <span>{{image.film}}</span><br>
         <span *ngIf="image.favorite" class="favorite-icon">★</span>
@@ -13,7 +23,8 @@
     (click)="loadMoreImages()">
     Carregar mais fotos
 </button>
-<p-galleria 
+<p-galleria
+    *ngIf="displayCustom"
     [value]="images" 
     [(visible)]="displayCustom" 
     [(activeIndex)]="activeIndex" 
@@ -24,6 +35,15 @@
     [showItemNavigators]="true" 
     [showThumbnails]="false">
     <ng-template pTemplate="item" let-item>
-        <img [src]="item.itemImageSrc" style="width: 100%; display: block;" loading="lazy" decoding="async" />
+        <img
+            [src]="item.itemImageSrc"
+            [attr.srcset]="item.itemSrcset"
+            sizes="(max-width: 850px) 100vw, 850px"
+            [attr.width]="item.width"
+            [attr.height]="item.height"
+            [alt]="item.alt"
+            class="fullscreen-image"
+            loading="eager"
+            decoding="async" />
     </ng-template>
 </p-galleria>

@@ -1,3 +1,5 @@
+import { Page } from "./page.model";
+
 export class Article{
     //TODO: ADD VARS AND WHAT IS MISSING
     id: number;
@@ -5,7 +7,7 @@ export class Article{
     subtitle: string | null;
     img: string | null;
     abstract: string | null;
-    content: string[] | null;
+    pages: Page[];
     location: string | null = null;
     date: string | null = null;
     active: boolean = false;
@@ -16,7 +18,7 @@ export class Article{
         this.subtitle = args.subtitle ?? null;
         this.img = args.img ?? null;
         this.abstract = args.abstract ?? null;
-        this.content = args.content ?? null;
+        this.pages = args.pages ?? [];
         this.location = args.location ?? null;
         this.date = args.date ?? null;
         this.active = args.active ?? false;

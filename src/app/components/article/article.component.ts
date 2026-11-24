@@ -17,15 +17,29 @@ import { HeadLine } from '../../models/headline.model';
 })
 export class ArticleComponent implements OnInit{
   public article: HeadLine | undefined;
+  public currentPageIndex = 0;
+
+  get currentPage() {
+    return this.article?.pages[this.currentPageIndex];
+  }
 
   constructor(private route: ActivatedRoute, private dataService: DataService) { }
 
   ngOnInit(): void {
     const id = this.route.snapshot.params['id'];
     this.article = this.dataService.Get(id);
+    this.currentPageIndex = 0;
+  }
 
+  previousPage(): void {
+    if (this.currentPageIndex > 0) {
+      this.currentPageIndex--;
+    }
+  }
 
-    
-
+  nextPage(): void {
+    if (this.article && this.currentPageIndex < this.article.pages.length - 1) {
+      this.currentPageIndex++;
+    }
   }
 }

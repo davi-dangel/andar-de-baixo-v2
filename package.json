@@ -3,12 +3,17 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "test:images": "node --test scripts/optimize-images.test.mjs",
+    "prestart": "npm run images:optimize",
     "start": "npx ng serve",
+    "prebuild": "npm run images:optimize",
     "build": "ng build",
+    "prewatch": "npm run images:optimize",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:andar-de-baixo": "node dist/andar-de-baixo/server/server.mjs",
-    "deploy": "ng build --configuration production && npx angular-cli-ghpages --dir=dist/andar-de-baixo/browser --cname=andardebaixo.com.br"
+    "deploy": "npm run build -- --configuration production && npx angular-cli-ghpages --dir=dist/andar-de-baixo/browser --cname=andardebaixo.com.br"
   },
   "private": true,
   "dependencies": {
@@ -44,6 +49,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "sharp": "^0.34.5",
     "typescript": "~5.5.2"
   }
 }

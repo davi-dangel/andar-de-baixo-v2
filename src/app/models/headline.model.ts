@@ -1,10 +1,4 @@
-import { ContentGallery } from "./content-gallery.model";
-import { ContentIframe } from "./content-iframe.model";
-import { ContentImage } from "./content-image.model";
-import { ContentPoem } from "./content-poem.model";
-import { ContentText } from "./content-text.model";
-
-type ArticleContent = ContentText | ContentPoem | ContentImage | ContentIframe | ContentGallery;
+import { Page } from "./page.model";
 
 export class HeadLine{
     id: number;
@@ -15,7 +9,7 @@ export class HeadLine{
     abstract: string | null;
     location: string | null;
     date: string | null;
-    content: ArticleContent[];
+    pages: Page[];
     active: boolean = false;
 
     constructor(args: Partial<HeadLine> = {}){
@@ -27,7 +21,7 @@ export class HeadLine{
         this.abstract = args.abstract ?? null;
         this.location = args.location ?? null;
         this.date = args.date ?? null;
-        this.content = args.content ?? [];
+        this.pages = args.pages ?? [];
         this.active = args.active ?? false;
     }
 }
