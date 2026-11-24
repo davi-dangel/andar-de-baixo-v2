@@ -24,6 +24,14 @@
     cursor: pointer;
 }
 
+.fullscreen-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 90vh;
+    object-fit: contain;
+}
+
 .img-container span{
     padding-right: 10px;
 }

@@ -35,6 +35,8 @@ yarn-error.log
 .sass-cache/
 /connect.lock
 /coverage
+/.cache/gallery
+/public/gallery
 /libpeerconnection.log
 testem.log
 /typings
